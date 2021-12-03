@@ -38,7 +38,7 @@ foreach ($shelves_ids as $shelf) {
   $feed = simplexml_load_file($profile_rss.$shelf);
 
   // Print the shelf heading
-  echo "<h2>" . $shelves_title[$i] . "</h2>";
+  echo "<h2 id='" . $shelves_title[$i] . "'>" . $shelves_title[$i] . "</h2>";
 
   // We will group the books by year on each shelf
   $years = [];
@@ -53,7 +53,7 @@ foreach ($shelves_ids as $shelf) {
     // the read books. The others go together, even if I have added them
     // during different years.
     if ($shelf === 'read') {
-      echo "<h3>" . $key . "</h3>";
+      echo "<h3 id='" . $key . "'>" . $key . "</h3>";
     }
 
     // Create the list markup
