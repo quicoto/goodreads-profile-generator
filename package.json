@@ -1,0 +1,24 @@
+{
+  "name": "goodreads-profile-generator",
+  "version": "2.0.0",
+  "description": "This small PHP script will read the profile RSS list of shelves and output the books in each one.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quicoto/goodreads-profile-generator.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quicoto/goodreads-profile-generator/issues"
+  },
+  "homepage": "https://github.com/quicoto/goodreads-profile-generator#readme",
+  "dependencies": {
+    "feedparser": "^2.2.10",
+    "node-fetch": "^3.2.0"
+  }
+}

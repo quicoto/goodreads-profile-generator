@@ -8,6 +8,15 @@ Please read the source code as it is well documented, feel free to fork and cust
 
 Enjoy!
 
+## To Do
+
+- [ ] Update 3 txt files as database from the RSS
+  - [ ] Currently reading: should be cleaned on each fetch
+  - [ ] Want To Read: should be cleaned on each fetch
+  - [ ] Read: should not delete but only update if not found
+- [ ] Update the files with the found books (year, title, link, score)
+- [ ] Process for creating the HTML output based on the txt files
+
 ## How to build?
 
 Use the Github action with the manual trigger to create the output.html artifact.
