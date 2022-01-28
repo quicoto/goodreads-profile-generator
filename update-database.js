@@ -18,6 +18,12 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       const items = object.rss.channel.item;
       let content = '';
 
+      // TO DO
+      // READ THE FILE
+      // FIND IF THE TITLE IS THERE (not full string with URL but just the TITLE)
+      // IF FOUND, DO NOT ADD
+      // IF NOT FOUND, ADD
+
       items.forEach((item, itemIndex) => {
         switch (shelveIndex) {
           case 0: // Currently Reading
@@ -36,6 +42,6 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
         }
       });
 
-      createFile(`./database/${shelve}.txt`, content);
+      createFile(`./public/${shelve}.txt`, content);
     });
 });
