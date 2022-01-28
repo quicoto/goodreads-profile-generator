@@ -38,7 +38,7 @@ fs.mkdir(`./public`, () => {});
 
     years.forEach(year => {
       HTML += year.year ? `<h3>${year.year}</h3>` : '';
-      HTML += `<ul>${year.books.join('\n')}</ul>`;
+      HTML += `<ul>${year.books.reverse().join('\n')}</ul>`;
     });
   });
 
