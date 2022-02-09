@@ -18,11 +18,12 @@ fs.mkdir(`./public`, () => {});
 
     for (let i = 0, len = lines.length; i < len; i++) {
       const data = lines[i].split('|');
-      const year = data[0];
-      const title = data[1];
-      const URL = data[2];
+      const book_id = data[0];
+      const year = data[1];
+      const title = data[2];
+      const URL = data[3];
       const foundIndex = years.findIndex(y => y.year === year);
-      const book = `<li><a href="${URL}" rel="nofollow" title="Goodreads: ${title}">${title}</a></li>`;
+      const book = `<li><a data-book-id="${book_id}" href="${URL}" rel="nofollow" title="Goodreads: ${title}">${title}</a></li>`;
 
       // Not found, add new year
       if (foundIndex === -1) {
