@@ -8,7 +8,7 @@ fs.mkdir(`./public`, () => {});
   let HTML = '';
 
   Object.keys(shelves).forEach(shelve => {
-    const fileContents = readFile(`./database/${shelve}.txt`);
+    const fileContents = readFile(shelve);
     const shelveTitle = shelves[shelve];
     const lines = getLines(fileContents);
 

@@ -11,6 +11,10 @@ export function getURL (description) {
   return url.split("?")[0];
 }
 
+export function readFile(shelve) {
+  return fs.readFileSync(`./database/${shelve}.txt`, { encoding:'utf8', flag:'r'});
+}
+
 /**
  * @param  {string} date
  * @returns  {string}
@@ -39,8 +43,4 @@ export const shelves = {
  */
 export function getLines(content) {
   return content.split(/\r?\n/);
-}
-
-export function readFile(path) {
-  return fs.readFileSync(path, { encoding:'utf8', flag:'r'});
 }

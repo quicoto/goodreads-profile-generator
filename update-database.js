@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 import { parse } from 'arraybuffer-xml-parser';
-import { createFile, getURL, getYear, shelves } from './utils.js'
+import { getLines, readFile, getURL, getYear, shelves } from './utils.js'
 
 const production = false;
 const user_profile_id = "104159625";
@@ -17,6 +17,15 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       const object = parse(xmlData);
       const items = object.rss.channel.item;
       let content = '';
+
+      const fileContents = readFile(shelve);
+      const lines = getLines(fileContents);
+
+      // eslint-disable-next-line no-console
+      console.log(lines);
+
+      // eslint-disable-next-line
+      debugger
 
       // TO DO
       // READ THE FILE
@@ -42,6 +51,6 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
         }
       });
 
-      createFile(`./public/${shelve}.txt`, content);
+      // createFile(`./public/${shelve}.txt`, content);
     });
 });
