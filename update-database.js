@@ -43,7 +43,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
 
       if (newBooks !== '') {
         createFile(
-          `./database/${shelve}.txt`,
+          `./public/${shelve}.txt`,
           `${fileContents}${newBooks}`
           );
       }
