@@ -1,8 +1,8 @@
 import fetch from 'node-fetch';
 import { parse } from 'arraybuffer-xml-parser';
-import { getLines, readFile, getURL, getYear, shelves } from './utils.js'
+import { getLines, createFile, readFile, getURL, getYear, shelves } from './utils.js'
 
-const production = false;
+const production = true;
 const user_profile_id = "104159625";
 const rss = `https://www.goodreads.com/review/list_rss/${user_profile_id}?key=&shelf=`;
 const encoder = new TextEncoder();
@@ -16,41 +16,36 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       const xmlData = encoder.encode(data);
       const object = parse(xmlData);
       const items = object.rss.channel.item;
-      let content = '';
-
+      let newBooks = '';
       const fileContents = readFile(shelve);
-      const lines = getLines(fileContents);
+      const storedBooks = getLines(fileContents).map((element) => {
+        const parts = element.split('|');
 
-      // eslint-disable-next-line no-console
-      console.log(lines);
-
-      // eslint-disable-next-line
-      debugger
-
-      // TO DO
-      // READ THE FILE
-      // FIND IF THE TITLE IS THERE (not full string with URL but just the TITLE)
-      // IF FOUND, DO NOT ADD
-      // IF NOT FOUND, ADD
-
-      items.forEach((item, itemIndex) => {
-        switch (shelveIndex) {
-          case 0: // Currently Reading
-            content += `|${item.title}|${getURL(item.description)}`;
-            break;
-          case 1: // To Read
-            content += `|${item.title}|${getURL(item.description)}`;
-            break;
-          case 2: // Read
-            content += `${getYear(item.pubDate)}|${item.title}|${getURL(item.description)}`;
-            break;
-        }
-
-        if (itemIndex < items.length - 1) {
-          content += '\n';
+        return {
+          book_id: parts[0],
+          year: parts[1],
+          title: parts[2],
+          URL: parts[3],
         }
       });
 
-      // createFile(`./public/${shelve}.txt`, content);
+      items.forEach((item) => {
+        const found = storedBooks.findIndex(book => +book.book_id === +item.book_id);
+
+        if (found === -1) {
+          const title = item.title;
+          const URL = getURL(item.description);
+          const year = shelve === 'currently-reading' ? '' : getYear(item.pubDate);
+          const book = `${item.book_id}|${year}|${title}|${URL}`;
+          newBooks += `\n${book}`;
+        }
+      });
+
+      if (newBooks !== '') {
+        createFile(
+          `./database/${shelve}.txt`,
+          `${fileContents}${newBooks}`
+          );
+      }
     });
 });
