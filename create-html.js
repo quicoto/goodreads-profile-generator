@@ -24,13 +24,13 @@ import { createFile, shelves, getLines, readFile } from './utils.js'
 
       // Not found, add new year
       if (foundIndex === -1) {
-        years.push({
+        title && years.push({
           year,
           books: [book]
         })
       } else {
         // Year exists, add book to year
-        years[foundIndex].books.push(book);
+        title && years[foundIndex].books.push(book);
       }
     }
 
