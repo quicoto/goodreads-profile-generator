@@ -1,9 +1,6 @@
 import fs from 'fs';
 import { createFile, shelves, getLines, readFile } from './utils.js'
 
-// Create the requried folders
-fs.mkdir(`./public`, () => {});
-
 (async () => {
   let HTML = '';
 

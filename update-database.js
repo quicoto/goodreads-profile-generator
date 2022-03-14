@@ -32,7 +32,9 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       items.forEach((item) => {
         const found = storedBooks.findIndex(book => +book.book_id === +item.book_id);
 
-        if (found === -1) {
+        // Bypass if we're on the currently-reading
+        // We don't consider found, just add them all
+        if (found === -1 || shelve === 'currently-reading') {
           const title = item.title;
           const URL = getURL(item.description);
           const year = shelve === 'currently-reading' ? '' : getYear(item.pubDate);
@@ -42,9 +44,17 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       });
 
       if (newBooks !== '') {
+        let content = fileContents + newBooks;
+
+        if (shelve === 'currently-reading') {
+          // Since we delete books from this shelve, we can't simply
+          // add the new ones. We need to start clean
+          content = newBooks
+        }
+
         createFile(
           `./public/${shelve}.txt`,
-          `${fileContents}${newBooks}`
+          `${content}`
           );
       }
     });
