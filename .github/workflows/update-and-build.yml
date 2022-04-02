@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Update DB and Build Output
 on:
   workflow_dispatch:
 jobs:
