@@ -19,8 +19,9 @@ import { createFile, shelves, getLines, readFile } from './utils.js'
       const year = data[1];
       const title = data[2];
       const URL = data[3];
+      const score = +data[4] ? new Array(+data[4] + 1).join('⭐️') : '';
       const foundIndex = years.findIndex(y => y.year === year);
-      const book = `<li><a data-book-id="${book_id}" href="${URL}" rel="nofollow" title="Goodreads: ${title}">${title}</a></li>`;
+      const book = `<li><a data-book-id="${book_id}" href="${URL}" rel="nofollow" title="Goodreads: ${title}">${title}</a> ${score}</li>`;
 
       // Not found, add new year
       if (foundIndex === -1) {

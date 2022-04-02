@@ -26,6 +26,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
           year: parts[1],
           title: parts[2],
           URL: parts[3],
+          score: parts[4]
         }
       });
 
@@ -37,8 +38,9 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
         if (found === -1 || shelve === 'currently-reading') {
           const title = item.title;
           const URL = getURL(item.description);
-          const year = shelve === 'currently-reading' ? '' : getYear(item.pubDate);
-          const book = `${item.book_id}|${year}|${title}|${URL}`;
+          const year = shelve === 'currently-reading' || 'to-read' ? '' : getYear(item.pubDate);
+          const score = Math.floor(item.user_rating);
+          const book = `${item.book_id}|${year}|${title}|${URL}|${score}`;
           newBooks += `\n${book}`;
         }
       });

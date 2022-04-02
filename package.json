@@ -4,7 +4,9 @@
   "description": "This small PHP script will read the profile RSS list of shelves and output the books in each one.",
   "main": "index.js",
   "scripts": {
-    "build": "node update-database.js && node create-html.js"
+    "build": "npm run update && npm run html",
+    "update": "node update-database.js",
+    "html": "node create-html.js"
   },
   "repository": {
     "type": "git",

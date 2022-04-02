@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: to-read</title>
     <copyright><![CDATA[Copyright (C) 2022 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=to-read]]></link>
-    <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=to-read" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=to-read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: to-read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Dec 2021 13:18:20 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 Mar 2021 15:22:05 -0800</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: to-read</title>
@@ -18,87 +18,7 @@
       <height>41</height>
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
-    
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/4400209313?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Mon, 20 Dec 2021 13:18:20 -0800]]></pubDate>
-    <title>The Last Thing He Told Me</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/4400209313?utm_medium=api&utm_source=rss]]></link>
-    <book_id>56169546</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607179621l/56169546._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607179621l/56169546._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607179621l/56169546._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607179621l/56169546._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<b>We all have stories we never tell.<br />Before Owen Michaels disappears, he manages to smuggle a note to his beloved wife of one year: <i>Protect her.</i></b><br /><br />Despite her confusion and fear, Hannah Hall knows exactly to whom the note refers: Owen’s sixteen-year-old daughter, Bailey. Bailey, who lost her mother tragically as a child. Bailey, who wants absolutely nothing to do with her new stepmother.<br /><br />As Hannah’s increasingly desperate calls to Owen go unanswered; as the FBI arrests Owen’s boss; as a US Marshal and FBI agents arrive at her Sausalito home unannounced, Hannah quickly realizes her husband isn’t who he said he was. And that Bailey just may hold the key to figuring out Owen’s true identity—and why he really disappeared.<br /><br />Hannah and Bailey set out to discover the truth, together. But as they start putting together the pieces of Owen’s past, they soon realize they are also building a new future. One neither Hannah nor Bailey could have anticipated.]]></book_description>
-    <book id="56169546">
-      <num_pages>320</num_pages>
-    </book>
-    <author_name>Laura Dave</author_name>
-    <isbn/>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at/>
-    <user_date_added><![CDATA[Mon, 20 Dec 2021 13:18:20 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Mon, 20 Dec 2021 13:18:20 -0800]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review/>
-    <average_rating>4.14</average_rating>
-    <book_published>2021</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/56169546-the-last-thing-he-told-me?utm_medium=api&amp;utm_source=rss"><img alt="The Last Thing He Told Me" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607179621l/56169546._SY75_.jpg" /></a><br/>
-                                      author: Laura Dave<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.14<br/>
-                                      book published: 2021<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2021/12/20<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/4368216986?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Thu, 02 Dec 2021 13:56:35 -0800]]></pubDate>
-    <title>Project Hail Mary</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/4368216986?utm_medium=api&utm_source=rss]]></link>
-    <book_id>54493401</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the Earth itself will perish.<br /><br />Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he's been asleep for a very, very long time. And he's just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, he realizes that an impossible task now confronts him. Alone on this tiny ship that's been cobbled together by every government and space agency on the planet and hurled into the depths of space, it's up to him to conquer an extinction-level threat to our species.<br /><br />And thanks to an unexpected ally, he just might have a chance.<br /><br />Part scientific mystery, part dazzling interstellar journey, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>--while taking us to places it never dreamed of going.]]></book_description>
-    <book id="54493401">
-      <num_pages>476</num_pages>
-    </book>
-    <author_name>Andy Weir</author_name>
-    <isbn>0593135202</isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at/>
-    <user_date_added><![CDATA[Thu, 02 Dec 2021 13:56:35 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Thu, 02 Dec 2021 13:56:34 -0800]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review/>
-    <average_rating>4.51</average_rating>
-    <book_published>2021</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary?utm_medium=api&amp;utm_source=rss"><img alt="Project Hail Mary" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg" /></a><br/>
-                                      author: Andy Weir<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.51<br/>
-                                      book published: 2021<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2021/12/02<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
+
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3878229692?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Sun, 07 Mar 2021 15:22:05 -0800]]></pubDate>
@@ -117,11 +37,11 @@
     <isbn>0316517887</isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Sun, 07 Mar 2021 15:22:05 -0800]]></user_date_added>
     <user_date_created><![CDATA[Sun, 07 Mar 2021 15:22:05 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.15</average_rating>
     <book_published>2015</book_published>
     <description>
@@ -154,14 +74,14 @@
       <num_pages>570</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Wed, 24 Feb 2021 10:38:08 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:18 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.37</average_rating>
     <book_published>2019</book_published>
     <description>
@@ -197,19 +117,19 @@
     <isbn>0143119788</isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Tue, 06 Oct 2020 13:07:16 -0700]]></user_date_added>
     <user_date_created><![CDATA[Tue, 06 Oct 2020 13:07:15 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
-    <average_rating>4.04</average_rating>
+    <user_review></user_review>
+    <average_rating>4.05</average_rating>
     <book_published>1974</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy?utm_medium=api&amp;utm_source=rss"><img alt="Tinker, Tailor, Soldier, Spy (George Smiley, #5; Karla Trilogy #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201l/10073506._SX50_.jpg" /></a><br/>
                                       author: John le Carré<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.04<br/>
+                                      average rating: 4.05<br/>
                                       book published: 1974<br/>
                                       rating: 0<br/>
                                       read at: <br/>
@@ -234,14 +154,14 @@
       <num_pages>308</num_pages>
     </book>
     <author_name>Jason Anspach</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:57 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:57 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.09</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -274,22 +194,22 @@
       <num_pages>500</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:20 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:19 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
-    <average_rating>4.54</average_rating>
+    <user_review></user_review>
+    <average_rating>4.53</average_rating>
     <book_published>2020</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/53179797-critical-mass?utm_medium=api&amp;utm_source=rss"><img alt="Critical Mass (Expeditionary Force, #10)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607707523l/53179797._SX50_.jpg" /></a><br/>
                                       author: Craig Alanson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.54<br/>
+                                      average rating: 4.53<br/>
                                       book published: 2020<br/>
                                       rating: 0<br/>
                                       read at: <br/>
@@ -314,14 +234,14 @@
       <num_pages>368</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:17 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:16 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.43</average_rating>
     <book_published>2019</book_published>
     <description>
@@ -354,22 +274,22 @@
       <num_pages>316</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:13 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:13 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
-    <average_rating>4.37</average_rating>
+    <user_review></user_review>
+    <average_rating>4.38</average_rating>
     <book_published>2018</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/42844512-renegades?utm_medium=api&amp;utm_source=rss"><img alt="Renegades (Expeditionary Force, #7)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542388910l/42844512._SX50_.jpg" /></a><br/>
                                       author: Craig Alanson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.37<br/>
+                                      average rating: 4.38<br/>
                                       book published: 2018<br/>
                                       rating: 0<br/>
                                       read at: <br/>
@@ -391,17 +311,17 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527848965l/40280648._SX318_.jpg]]></book_large_image_url>
     <book_description><![CDATA[The remnants of the Expeditionary Force stranded on the alien-controlled planet 'Paradise' get a chance to prove themselves, in a simple off-world training mission with a ship full of teenage alien cadets. When the mission goes horribly wrong and the survival of everyone on Paradise is at risk, the Merry Band of Pirates may have to come to the rescue. Unless they get killed first...]]></book_description>
     <book id="40280648">
-      <num_pages>275</num_pages>
+      <num_pages>291</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:12 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:12 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.31</average_rating>
     <book_published>2018</book_published>
     <description>
@@ -434,14 +354,14 @@
       <num_pages>608</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:21:44 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:21:43 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.29</average_rating>
     <book_published>2020</book_published>
     <description>
@@ -474,14 +394,14 @@
       <num_pages>58</num_pages>
     </book>
     <author_name>Hugh Howey</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Thu, 12 Mar 2020 01:27:18 -0700]]></user_date_added>
     <user_date_created><![CDATA[Thu, 12 Mar 2020 01:27:18 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.12</average_rating>
     <book_published>2011</book_published>
     <description>
@@ -517,11 +437,11 @@
     <isbn>0451488946</isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Tue, 28 Jan 2020 14:26:24 -0800]]></user_date_added>
     <user_date_created><![CDATA[Tue, 28 Jan 2020 14:26:23 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.36</average_rating>
     <book_published>2019</book_published>
     <description>
@@ -556,14 +476,14 @@
       <num_pages>529</num_pages>
     </book>
     <author_name>Mark Greaney</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Tue, 28 Jan 2020 14:26:04 -0800]]></user_date_added>
     <user_date_created><![CDATA[Tue, 28 Jan 2020 14:26:03 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.45</average_rating>
     <book_published>2020</book_published>
     <description>
@@ -596,14 +516,14 @@
       <num_pages>347</num_pages>
     </book>
     <author_name>Marko Kloos</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
-    <user_review/>
+    <user_review></user_review>
     <average_rating>4.04</average_rating>
     <book_published>2013</book_published>
     <description>
