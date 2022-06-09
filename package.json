@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/quicoto/goodreads-profile-generator#readme",
   "dependencies": {
-    "arraybuffer-xml-parser": "^0.5.0",
-    "node-fetch": "^3.2.3"
+    "arraybuffer-xml-parser": "^0.6.0",
+    "node-fetch": "^3.2.5"
   }
 }

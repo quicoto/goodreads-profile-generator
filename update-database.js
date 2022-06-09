@@ -38,7 +38,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
         if (found === -1 || shelve === 'currently-reading') {
           const title = item.title;
           const URL = getURL(item.description);
-          const year = shelve === 'currently-reading' || 'to-read' ? '' : getYear(item.pubDate);
+          const year = shelve === ('currently-reading' || 'to-read') ? '' : getYear(item.pubDate);
           const score = Math.floor(item.user_rating);
           const book = `${item.book_id}|${year}|${title}|${URL}|${score}`;
           newBooks += `\n${book}`;

@@ -1,15 +1,16 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: read</title>
     <copyright><![CDATA[Copyright (C) 2022 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read]]></link>
-    <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=read" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Mar 2022 23:53:58 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2022 01:16:42 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: read</title>
@@ -19,6 +20,86 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/4644996172?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 09 Jun 2022 01:16:42 -0700]]></pubDate>
+    <title><![CDATA[Executive Power (Mitch Rapp, #6)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/4644996172?utm_medium=api&utm_source=rss]]></link>
+    <book_id>777211</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442431876l/777211._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442431876l/777211._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442431876l/777211._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442431876l/777211._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[CIA superagent Mitch Rapp battles global terrorism in a high-octane follow-up to The New York Times bestselling Separation of Power -- another chillingly authentic adventure from the master of the political thriller. Mitch Rapp's cover has been blown. After leading a team of commandos deep into Iraq to prevent Saddam Hussein from joining the nuclear arms race, he was publicly hailed by the president as the single most important person in the fight against terrorism. But after years of working covertly behind the scenes, Rapp now lives in the glare of the public spotlight, lauded by the nation and an easy target for virtually every terrorist from Jakarta to London.<br /><br />As special advisor on counterterrorism to CIA director Dr. Irene Kennedy, Rapp is ready to fight the war on terrorism from CIA headquarters rather than the front line. That is, until a platoon of Navy SEALs, sent to the Philippines to save an American family kidnapped by radical Islamic terrorists, is caught in a deadly ambush. The mission had been top secret -- so who told the enemy? All evidence points to the State Department and the Philippine embassy. But a greater threat still lurks. An unknown assassin working closely with the highest powers in the Middle East is bent on igniting war. Now, with the world watching his every move, will Rapp be able to overcome this anonymous foe and once again keep the flames of war from raging?<br /><br />Transporting us into an intriguing geopolitical puzzle full of deadly motives, covert operatives, and all the true-to-life insider detail we've come to expect from Vince Flynn, "Executive Power" is a high-flying story that delivers shattering suspense with the velocity of a 9mmbullet.]]></book_description>
+    <book id="777211">
+      <num_pages>512</num_pages>
+    </book>
+    <author_name>Vince Flynn</author_name>
+    <isbn>0743453964</isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>2</user_rating>
+    <user_read_at><![CDATA[Thu, 09 Jun 2022 01:16:42 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Thu, 09 Jun 2022 01:16:42 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Sat, 02 Apr 2022 09:11:39 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.31</average_rating>
+    <book_published>2003</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/777211.Executive_Power?utm_medium=api&amp;utm_source=rss"><img alt="Executive Power (Mitch Rapp, #6)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442431876l/777211._SY75_.jpg" /></a><br/>
+                                      author: Vince Flynn<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.31<br/>
+                                      book published: 2003<br/>
+                                      rating: 2<br/>
+                                      read at: 2022/06/09<br/>
+                                      date added: 2022/06/09<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/4368216986?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sat, 02 Apr 2022 09:14:53 -0700]]></pubDate>
+    <title>Project Hail Mary</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/4368216986?utm_medium=api&utm_source=rss]]></link>
+    <book_id>54493401</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the Earth itself will perish.<br /><br />Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he's been asleep for a very, very long time. And he's just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, he realizes that an impossible task now confronts him. Alone on this tiny ship that's been cobbled together by every government and space agency on the planet and hurled into the depths of space, it's up to him to conquer an extinction-level threat to our species.<br /><br />And thanks to an unexpected ally, he just might have a chance.<br /><br />Part scientific mystery, part dazzling interstellar journey, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>—while taking us to places it never dreamed of going.]]></book_description>
+    <book id="54493401">
+      <num_pages>476</num_pages>
+    </book>
+    <author_name>Andy Weir</author_name>
+    <isbn>0593135202</isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>1</user_rating>
+    <user_read_at><![CDATA[Sat, 02 Apr 2022 09:14:53 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Sat, 02 Apr 2022 09:14:53 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Thu, 02 Dec 2021 13:56:34 -0800]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.50</average_rating>
+    <book_published>2021</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary?utm_medium=api&amp;utm_source=rss"><img alt="Project Hail Mary" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg" /></a><br/>
+                                      author: Andy Weir<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.50<br/>
+                                      book published: 2021<br/>
+                                      rating: 1<br/>
+                                      read at: 2022/04/02<br/>
+                                      date added: 2022/04/02<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/4496155218?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Sun, 13 Mar 2022 23:53:58 -0700]]></pubDate>
@@ -42,8 +123,8 @@
     <user_read_at><![CDATA[Sun, 13 Mar 2022 00:00:00 -0800]]></user_read_at>
     <user_date_added><![CDATA[Sun, 13 Mar 2022 23:53:58 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 22 Jan 2022 05:41:39 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.31</average_rating>
     <book_published>2001</book_published>
     <description>
@@ -82,8 +163,8 @@
     <user_read_at><![CDATA[Sat, 22 Jan 2022 05:40:41 -0800]]></user_read_at>
     <user_date_added><![CDATA[Sat, 22 Jan 2022 05:40:41 -0800]]></user_date_added>
     <user_date_created><![CDATA[Thu, 02 Dec 2021 13:54:17 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.25</average_rating>
     <book_published>2000</book_published>
     <description>
@@ -122,8 +203,8 @@
     <user_read_at><![CDATA[Thu, 02 Dec 2021 13:53:22 -0800]]></user_read_at>
     <user_date_added><![CDATA[Thu, 02 Dec 2021 13:53:22 -0800]]></user_date_added>
     <user_date_created><![CDATA[Thu, 20 May 2021 11:03:05 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.31</average_rating>
     <book_published>1999</book_published>
     <description>
@@ -144,7 +225,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3758663519?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Thu, 09 Sep 2021 10:46:34 -0700]]></pubDate>
-    <title><![CDATA[The Collapsing Empire (The Interdependency, #1)]]></title>
+    <title>The Collapsing Empire</title>
     <link><![CDATA[https://www.goodreads.com/review/show/3758663519?utm_medium=api&utm_source=rss]]></link>
     <book_id>30078567</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg]]></book_image_url>
@@ -162,13 +243,13 @@
     <user_read_at><![CDATA[Thu, 09 Sep 2021 10:46:34 -0700]]></user_read_at>
     <user_date_added><![CDATA[Thu, 09 Sep 2021 10:46:34 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 09 Jan 2021 00:35:55 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.07</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/30078567-the-collapsing-empire?utm_medium=api&amp;utm_source=rss"><img alt="The Collapsing Empire (The Interdependency, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/30078567-the-collapsing-empire?utm_medium=api&amp;utm_source=rss"><img alt="The Collapsing Empire" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
                                       average rating: 4.07<br/>
@@ -202,8 +283,8 @@
     <user_read_at><![CDATA[Sat, 03 Jul 2021 13:01:16 -0700]]></user_read_at>
     <user_date_added><![CDATA[Sat, 03 Jul 2021 13:01:16 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 03 Oct 2020 01:00:48 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.02</average_rating>
     <book_published>2018</book_published>
     <description>
@@ -242,8 +323,8 @@
     <user_read_at><![CDATA[Thu, 20 May 2021 11:01:28 -0700]]></user_read_at>
     <user_date_added><![CDATA[Thu, 20 May 2021 11:01:28 -0700]]></user_date_added>
     <user_date_created><![CDATA[Tue, 20 Oct 2020 14:02:46 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.30</average_rating>
     <book_published>2012</book_published>
     <description>
@@ -282,8 +363,8 @@
     <user_read_at><![CDATA[Fri, 26 Mar 2021 10:40:14 -0700]]></user_read_at>
     <user_date_added><![CDATA[Fri, 26 Mar 2021 10:40:14 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:43:24 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>3.96</average_rating>
     <book_published>2006</book_published>
     <description>
@@ -322,8 +403,8 @@
     <user_read_at><![CDATA[Tue, 12 Jan 2021 08:29:21 -0800]]></user_read_at>
     <user_date_added><![CDATA[Tue, 12 Jan 2021 08:29:21 -0800]]></user_date_added>
     <user_date_created><![CDATA[Tue, 06 Oct 2020 13:49:53 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.24</average_rating>
     <book_published>2010</book_published>
     <description>
@@ -362,16 +443,16 @@
     <user_read_at><![CDATA[Tue, 06 Oct 2020 13:53:00 -0700]]></user_read_at>
     <user_date_added><![CDATA[Tue, 06 Oct 2020 13:53:00 -0700]]></user_date_added>
     <user_date_created><![CDATA[Mon, 23 Mar 2020 09:06:52 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
-    <average_rating>3.53</average_rating>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>3.54</average_rating>
     <book_published>2020</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/45895112-the-last-human?utm_medium=api&amp;utm_source=rss"><img alt="The Last Human" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580794903l/45895112._SY75_.jpg" /></a><br/>
                                       author: Zack  Jordan<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.53<br/>
+                                      average rating: 3.54<br/>
                                       book published: 2020<br/>
                                       rating: 1<br/>
                                       read at: 2020/10/06<br/>
@@ -396,14 +477,14 @@
       <num_pages>494</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
     <user_read_at><![CDATA[Mon, 10 Aug 2020 03:35:07 -0700]]></user_read_at>
     <user_date_added><![CDATA[Mon, 10 Aug 2020 03:35:07 -0700]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:46:01 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.37</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -436,14 +517,14 @@
       <num_pages>278</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 31 Jul 2020 03:21:12 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:57:15 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.33</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -482,8 +563,8 @@
     <user_read_at><![CDATA[Fri, 22 May 2020 02:20:35 -0700]]></user_read_at>
     <user_date_added><![CDATA[Fri, 22 May 2020 02:20:35 -0700]]></user_date_added>
     <user_date_created><![CDATA[Tue, 25 Feb 2020 11:36:06 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.24</average_rating>
     <book_published>2018</book_published>
     <description>
@@ -518,22 +599,22 @@
       <num_pages>505</num_pages>
     </book>
     <author_name>Mark Greaney</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
     <user_read_at><![CDATA[Fri, 22 May 2020 02:18:29 -0700]]></user_read_at>
     <user_date_added><![CDATA[Fri, 22 May 2020 02:18:29 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:53:41 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
-    <average_rating>4.45</average_rating>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.46</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/30189669-gunmetal-gray?utm_medium=api&amp;utm_source=rss"><img alt="Gunmetal Gray (Gray Man, #6)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464091568l/30189669._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.45<br/>
+                                      average rating: 4.46<br/>
                                       book published: 2017<br/>
                                       rating: 4<br/>
                                       read at: 2020/05/22<br/>
@@ -564,8 +645,8 @@
     <user_read_at><![CDATA[Sun, 29 Mar 2020 03:50:08 -0700]]></user_read_at>
     <user_date_added><![CDATA[Sun, 29 Mar 2020 03:50:08 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:55:12 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.49</average_rating>
     <book_published>2016</book_published>
     <description>
@@ -598,14 +679,14 @@
       <num_pages>144</num_pages>
     </book>
     <author_name>Martha Wells</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
     <user_read_at><![CDATA[Tue, 25 Feb 2020 11:34:08 -0800]]></user_read_at>
     <user_date_added><![CDATA[Tue, 25 Feb 2020 11:34:08 -0800]]></user_date_added>
     <user_date_created><![CDATA[Wed, 12 Feb 2020 00:08:15 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.14</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -644,8 +725,8 @@
     <user_read_at><![CDATA[Wed, 12 Feb 2020 00:05:36 -0800]]></user_read_at>
     <user_date_added><![CDATA[Wed, 12 Feb 2020 00:05:36 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:36:23 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.18</average_rating>
     <book_published>1993</book_published>
     <description>
@@ -684,8 +765,8 @@
     <user_read_at><![CDATA[Tue, 04 Feb 2020 11:40:53 -0800]]></user_read_at>
     <user_date_added><![CDATA[Tue, 04 Feb 2020 11:40:53 -0800]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:44:12 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.04</average_rating>
     <book_published>2007</book_published>
     <description>
@@ -721,11 +802,11 @@
     <isbn>1781162689</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:40:44 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:40:26 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>3.79</average_rating>
     <book_published>2013</book_published>
     <description>
@@ -753,7 +834,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349873l/21432866._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349873l/21432866._SY160_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349873l/21432866.jpg]]></book_large_image_url>
-    <book_description><![CDATA[When Ellen Ripley finally returns to Earth, she learns that the planet LV-426—now called Acheron—has been colonized. But LV-426 is where Ripley and the crew of the <i>Nostromo</i> found the original Xenomorph—the killing machine known as the Alien.<br /><br />Protected by the Colonial Marines, the colonists seek to terraform the storm-swept planet. Two such residents are Anne and Russell Jorden, seeking a fortune that eluded them on Earth. On Acheron, Anne gives birth to the colony’s first newborn. Rebecca Jordan, also known as Newt.<br /><br />The wildcatters discover a vast, decaying spaceship. The horseshoe-shaped vessel is of particular interest to Weyland-Yutani, and may be the answer to their dreams. But what Anne and Russ find on board proves to be the stuff, not of dreams, but of nightmares.<br /><br /><br />Alien TM &amp; © 1979, 2013 Twentieth Century Fox Film Corporation. All Rights Reserved.]]></book_description>
+    <book_description><![CDATA[When Ellen Ripley finally returns to Earth, she learns that the planet LV-426—now called Acheron—has been colonized. But LV-426 is where Ripley and the crew of the <i>Nostromo</i> found the original Xenomorph—the killing machine known as the Alien.<br /><br />Protected by the Colonial Marines, the colonists seek to terraform the storm-swept planet. Two such residents are Anne and Russell Jorden, seeking a fortune that eluded them on Earth. On Acheron, Anne gives birth to the colony’s first newborn. Rebecca Jordan, also known as Newt.<br /><br />The wildcatters discover a vast, decaying spaceship. The horseshoe-shaped vessel is of particular interest to Weyland-Yutani, and may be the answer to their dreams. But what Anne and Russ find on board proves to be the stuff, not of dreams, but of nightmares.<br /><br /><br />Alien TM &amp; © 1979, 2013 Twentieth Century Fox Film Corporation. All Rights Reserved.]]></book_description>
     <book id="21432866">
       <num_pages>352</num_pages>
     </book>
@@ -761,19 +842,19 @@
     <isbn>1781162727</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:40:03 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:39:46 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
-    <average_rating>3.82</average_rating>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>3.81</average_rating>
     <book_published>2014</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/21432866-alien?utm_medium=api&amp;utm_source=rss"><img alt="Alien: River of Pain (Canonical Alien trilogy, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349873l/21432866._SY75_.jpg" /></a><br/>
                                       author: Christopher Golden<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.82<br/>
+                                      average rating: 3.81<br/>
                                       book published: 2014<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -798,14 +879,14 @@
       <num_pages>5</num_pages>
     </book>
     <author_name>Joe Harris</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:39:28 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:39:16 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>3.44</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -841,11 +922,11 @@
     <isbn>0743276833</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:28:58 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:28:36 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.14</average_rating>
     <book_published>2006</book_published>
     <description>
@@ -881,11 +962,11 @@
     <isbn>0316253014</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:22:51 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:05:51 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.11</average_rating>
     <book_published>2013</book_published>
     <description>
@@ -918,14 +999,14 @@
       <num_pages>264</num_pages>
     </book>
     <author_name>Brad Szollose</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:18:03 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:11:01 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.38</average_rating>
     <book_published>2010</book_published>
     <description>
@@ -964,11 +1045,11 @@
     <isbn>0316206717</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:10:20 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:10:08 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.24</average_rating>
     <book_published>2012</book_published>
     <description>
@@ -1004,11 +1085,11 @@
     <isbn>0316101877</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:09:57 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:09:41 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.04</average_rating>
     <book_published>2011</book_published>
     <description>
@@ -1044,11 +1125,11 @@
     <isbn>0316206938</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:09:11 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:08:47 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.14</average_rating>
     <book_published>2012</book_published>
     <description>
@@ -1087,8 +1168,8 @@
     <user_read_at><![CDATA[Fri, 03 Jan 2020 05:33:15 -0800]]></user_read_at>
     <user_date_added><![CDATA[Fri, 03 Jan 2020 05:33:15 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 02 Dec 2019 13:43:27 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>3.65</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -1121,22 +1202,22 @@
       <num_pages>360</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>1</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:21:43 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:21:42 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
-    <average_rating>4.08</average_rating>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.07</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/24292598-outland?utm_medium=api&amp;utm_source=rss"><img alt="Outland" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420705827l/24292598._SY75_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.08<br/>
+                                      average rating: 4.07<br/>
                                       book published: 2015<br/>
                                       rating: 1<br/>
                                       read at: <br/>
@@ -1161,14 +1242,14 @@
       <num_pages>167</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:21:12 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:21:11 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.18</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -1201,14 +1282,14 @@
       <num_pages>285</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:21:08 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:57:25 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.25</average_rating>
     <book_published>2016</book_published>
     <description>
@@ -1241,14 +1322,14 @@
       <num_pages>277</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:21:02 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:57:35 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.23</average_rating>
     <book_published>2016</book_published>
     <description>
@@ -1276,19 +1357,19 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452629243l/28525188._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452629243l/28525188._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452629243l/28525188._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[We were fighting on the wrong side, of a war we couldn't win. And that was the good news. <br />The Ruhar hit us on Columbus Day. There we were, innocently drifting along the cosmos on our little blue marble, like the native Americans in 1492. Over the horizon come ships of a technologically advanced, aggressive culture, and BAM! There go the good old days, when humans only got killed by each other. So, Columbus Day. It fits. <br />When the morning sky twinkled again, this time with Kristang starships jumping in to hammer the Ruhar, we thought we were saved. The UN Expeditionary Force hitched a ride on Kristang ships to fight the Ruhar, wherever our new allies thought we could be useful. So, I went from fighting with the US Army in Nigeria, to fighting in space. It was lies, all of it. We shouldn't even be fighting the Ruhar, they aren't our enemy, our allies are. <br />I'd better start at the beginning....<br /><br /><i>Alternate Cover Edition can be found <a href="https://www.goodreads.com/book/show/36335767-columbus-day" rel="nofollow noopener">here</a>. </i>]]></book_description>
+    <book_description><![CDATA[<i>This is a previously-published edition of ASIN B01AIGC31E</i>.<br /><br />We were fighting on the wrong side, of a war we couldn't win. And that was the good news. <br />The Ruhar hit us on Columbus Day. There we were, innocently drifting along the cosmos on our little blue marble, like the native Americans in 1492. Over the horizon come ships of a technologically advanced, aggressive culture, and BAM! There go the good old days, when humans only got killed by each other. So, Columbus Day. It fits. <br />When the morning sky twinkled again, this time with Kristang starships jumping in to hammer the Ruhar, we thought we were saved. The UN Expeditionary Force hitched a ride on Kristang ships to fight the Ruhar, wherever our new allies thought we could be useful. So, I went from fighting with the US Army in Nigeria, to fighting in space. It was lies, all of it. We shouldn't even be fighting the Ruhar, they aren't our enemy, our allies are. <br />I'd better start at the beginning....<br /><br /><i>Alternate Cover Edition can be found <a href="https://www.goodreads.com/book/show/36335767-columbus-day" rel="nofollow noopener">here</a>. </i>]]></book_description>
     <book id="28525188">
       <num_pages>305</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:20:26 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:56:39 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.26</average_rating>
     <book_published>2016</book_published>
     <description>
@@ -1312,28 +1393,28 @@
     <title><![CDATA[All These Worlds (Bobiverse, #3)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3103467138?utm_medium=api&utm_source=rss]]></link>
     <book_id>35506021</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498271736l/35506021._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498271736l/35506021._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498271736l/35506021._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498271736l/35506021._SY475_.jpg]]></book_large_image_url>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[Being a sentient spaceship really should be more fun. But after spreading out through space for almost a century, Bob and his clones just can't stay out of trouble.<br /><br />They've created enough colonies so humanity shouldn't go extinct. But political squabbles have a bad habit of dying hard, and the Brazilian probes are still trying to take out the competition. And the Bobs have picked a fight with an older, more powerful species with a large appetite and a short temper.<br /><br />Still stinging from getting their collective butts kicked in their first encounter with the Others, the Bobs now face the prospect of a decisive final battle to defend Earth and its colonies. But the Bobs are less disciplined than a herd of cats, and some of the younger copies are more concerned with their own local problems than defeating the Others.<br /><br />Yet salvation may come from an unlikely source. A couple of eighth-generation Bobs have found something out in deep space. All it will take to save the Earth and perhaps all of humanity is for them to get it to Sol - unless the Others arrive first.]]></book_description>
     <book id="35506021">
       <num_pages>260</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:19:48 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:19:48 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.41</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/35506021-all-these-worlds?utm_medium=api&amp;utm_source=rss"><img alt="All These Worlds (Bobiverse, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498271736l/35506021._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/35506021-all-these-worlds?utm_medium=api&amp;utm_source=rss"><img alt="All These Worlds (Bobiverse, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SX50_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
                                       average rating: 4.41<br/>
@@ -1366,11 +1447,11 @@
     <isbn>0425269051</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:19:23 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:54:36 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.34</average_rating>
     <book_published>2013</book_published>
     <description>
@@ -1398,19 +1479,19 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX50_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Bob Johansson didn’t believe in an afterlife, so waking up after being killed in a car accident was a shock. To add to the surprise, he is now a sentient computer and the controlling intelligence for a Von Neumann probe.<br /><br />Bob and his copies have been spreading out from Earth for forty years now, looking for habitable planets. But that’s the only part of the plan that’s still in one piece. A system-wide war has killed off 99.9% of the human race; nuclear winter is slowly making the Earth uninhabitable; a radical group wants to finish the job on the remnants of humanity; the Brazilian space probes are still out there, still trying to blow up the competition; And the Bobs have discovered a spacefaring species that considers all other life as food.<br /><br />Bob left Earth anticipating a life of exploration and blissful solitude. Instead he’s a sky god to a primitive native species, the only hope for getting humanity to a new home, and possibly the only thing that can prevent every species in the local sphere ending up as dinner.]]></book_description>
+    <book_description><![CDATA[Bob Johansson didn't believe in an afterlife, so waking up after being killed in a car accident was a shock. To add to the surprise, he is now a sentient computer and the controlling intelligence for a Von Neumann probe. <br /> <br />Bob and his copies have been spreading out from Earth for 40 years now, looking for habitable planets. But that's the only part of the plan that's still in one piece. A system-wide war has killed off 99.9% of the human race; nuclear winter is slowly making the Earth uninhabitable; a radical group wants to finish the job on the remnants of humanity; the Brazilian space probes are still out there, still trying to blow up the competition; And the Bobs have discovered a spacefaring species that sees all other life as food. <br /> <br />Bob left Earth anticipating a life of exploration and blissful solitude. Instead he's become a sky god to a primitive native species, the only hope for getting humanity to a new home, and possibly the only thing that can prevent every living thing in the local sphere from ending up as dinner.]]></book_description>
     <book id="33395557">
       <num_pages>9</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:19:07 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:19:06 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.36</average_rating>
     <book_published>2017</book_published>
     <description>
@@ -1446,11 +1527,11 @@
     <isbn>0425244083</isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:18:54 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:53:35 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.25</average_rating>
     <book_published>2011</book_published>
     <description>
@@ -1485,14 +1566,14 @@
       <num_pages>534</num_pages>
     </book>
     <author_name>Mark Greaney</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:18:28 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:53:03 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.15</average_rating>
     <book_published>2010</book_published>
     <description>
@@ -1525,14 +1606,14 @@
       <num_pages>742</num_pages>
     </book>
     <author_name>Craig A. Falconer</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:18:17 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:18:16 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>3.95</average_rating>
     <book_published>2015</book_published>
     <description>
@@ -1565,14 +1646,14 @@
       <num_pages>456</num_pages>
     </book>
     <author_name>Mark Greaney</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:18:05 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:52:05 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.10</average_rating>
     <book_published>2009</book_published>
     <description>
@@ -1605,14 +1686,14 @@
       <num_pages>204</num_pages>
     </book>
     <author_name>Stanisław Lem</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:17:33 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:17:32 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.00</average_rating>
     <book_published>1961</book_published>
     <description>
@@ -1648,11 +1729,11 @@
     <isbn>0553803719</isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:17:16 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:17:16 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.18</average_rating>
     <book_published>1951</book_published>
     <description>
@@ -1688,11 +1769,11 @@
     <isbn>0393339912</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:17:02 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:17:01 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>3.92</average_rating>
     <book_published>2010</book_published>
     <description>
@@ -1728,11 +1809,11 @@
     <isbn>0062301233</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 15:16:46 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:16:45 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.20</average_rating>
     <book_published>2015</book_published>
     <description>
@@ -1765,14 +1846,14 @@
       <num_pages>193</num_pages>
     </book>
     <author_name>Douglas Adams</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 14:50:51 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:50:51 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.29</average_rating>
     <book_published>1979</book_published>
     <description>
@@ -1808,11 +1889,11 @@
     <isbn>0812550706</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 14:50:33 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:50:32 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.31</average_rating>
     <book_published>1985</book_published>
     <description>
@@ -1848,19 +1929,19 @@
     <isbn>0804139024</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Fri, 27 Dec 2019 14:50:21 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:50:20 -0800]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
-    <average_rating>4.39</average_rating>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.40</average_rating>
     <book_published>2011</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/18007564-the-martian?utm_medium=api&amp;utm_source=rss"><img alt="The Martian" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg" /></a><br/>
                                       author: Andy Weir<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.39<br/>
+                                      average rating: 4.40<br/>
                                       book published: 2011<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -1882,7 +1963,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403295928l/239399.jpg]]></book_large_image_url>
     <book_description><![CDATA[The Ghost Brigades are the Special Forces of the Colonial Defense Forces, elite troops created from the DNA of the dead and turned into the perfect soldiers for the CDF's toughest operations. They’re young, they’re fast and strong, and they’re totally without normal human qualms.<br /><br />The universe is a dangerous place for humanity—and it's about to become far more dangerous. Three races that humans have clashed with before have allied to halt our expansion into space. Their linchpin: the turncoat military scientist Charles Boutin, who knows the CDF’s biggest military secrets. To prevail, the CDF must find out why Boutin did what he did.<br /><br />Jared Dirac is the only human who can provide answers -- a superhuman hybrid, created from Boutin's DNA, Jared’s brain should be able to access Boutin's electronic memories. But when the memory transplant appears to fail, Jared is given to the Ghost Brigades.<br /><br />At first, Jared is a perfect soldier, but as Boutin’s memories slowly surface, Jared begins to intuit the reason’s for Boutin’s betrayal. As Jared desperately hunts for his "father," he must also come to grips with his own choices. Time is running out: The alliance is preparing its offensive, and some of them plan worse things than humanity’s mere military defeat…]]></book_description>
     <book id="239399">
-      <num_pages>374</num_pages>
+      <num_pages>343</num_pages>
     </book>
     <author_name>John Scalzi</author_name>
     <isbn>0765354063</isbn>
@@ -1891,8 +1972,8 @@
     <user_read_at><![CDATA[Mon, 02 Dec 2019 13:42:06 -0800]]></user_read_at>
     <user_date_added><![CDATA[Mon, 02 Dec 2019 13:42:06 -0800]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:44:07 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.09</average_rating>
     <book_published>2006</book_published>
     <description>
@@ -1928,11 +2009,11 @@
     <isbn>0765348276</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Wed, 23 Oct 2019 23:27:39 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:43:53 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.22</average_rating>
     <book_published>2005</book_published>
     <description>
@@ -1965,22 +2046,22 @@
       <num_pages>383</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
-    <isbn/>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at/>
+    <user_read_at></user_read_at>
     <user_date_added><![CDATA[Wed, 16 Oct 2019 12:57:03 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 12:56:58 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
-    <average_rating>4.29</average_rating>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.30</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob?utm_medium=api&amp;utm_source=rss"><img alt="We Are Legion (We Are Bob) (Bobiverse, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474344826l/32109569._SY75_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.29<br/>
+                                      average rating: 4.30<br/>
                                       book published: 2016<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -2011,8 +2092,8 @@
     <user_read_at><![CDATA[Wed, 16 Oct 2019 12:52:23 -0700]]></user_read_at>
     <user_date_added><![CDATA[Wed, 16 Oct 2019 12:52:23 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 12:52:08 -0700]]></user_date_created>
-    <user_shelves/>
-    <user_review/>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
     <average_rating>4.29</average_rating>
     <book_published>2019</book_published>
     <description>
