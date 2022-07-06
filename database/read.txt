@@ -51,3 +51,4 @@
 46223297|2019|Permanent Record|https://www.goodreads.com/book/show/46223297-permanent-record|5
 54493401|2022|Project Hail Mary|https://www.goodreads.com/book/show/54493401-project-hail-mary|1
 777211|2022|Executive Power (Mitch Rapp, #6)|https://www.goodreads.com/book/show/777211.Executive_Power|2
+35427016|2022|Legionnaire (Galaxy's Edge, #1)|https://www.goodreads.com/book/show/35427016-legionnaire|5
