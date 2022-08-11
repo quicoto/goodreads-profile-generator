@@ -15,7 +15,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
     .then(data => {
       const xmlData = encoder.encode(data);
       const object = parse(xmlData);
-      const items = object.rss.channel.item;
+      let items = object.rss.channel.item;
       let newBooks = '';
       const fileContents = readFile(shelve);
       const storedBooks = getLines(fileContents).map((element) => {
@@ -29,6 +29,10 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
           score: parts[4]
         }
       });
+
+      if (!Array.isArray(items)) {
+        items = [items];
+      }
 
       items.forEach((item) => {
         const found = storedBooks.findIndex(book => +book.book_id === +item.book_id);

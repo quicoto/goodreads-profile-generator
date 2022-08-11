@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
@@ -10,7 +9,7 @@
     <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Jun 2022 01:16:42 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Aug 2022 03:59:27 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: read</title>
@@ -20,6 +19,86 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/4828619476?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 11 Aug 2022 03:59:27 -0700]]></pubDate>
+    <title>Kill Team (Galaxy&apos;s Edge, #3)</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/4828619476?utm_medium=api&utm_source=rss]]></link>
+    <book_id>35673412</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[ Always make 'em pay.  <br /> <br />In the aftermath of the Battle of Kublar—and the destruction of the battleship <i>Chiasm</i>—Legion Dark Ops recruits Chhun, Wraith, and the survivors of Victory Company to form an elite Kill Team of legionnaires. Their secret mission is as clear as it is deadly: find and eliminate those responsible for the Kublar disaster. <br /> <br />Standing between them and their objective are a maze of corrupt Republic officials, a spy on the verge of losing himself in deep cover, and the Zhee—a murderous species who will stop at nothing. But perhaps the biggest threat of all is the truth they seek to uncover. <br /> <br />A truth that could ignite a revolution—and engulf the galaxy in flames… <br /><b>…unless the Kill Team is willing to finish the job. At any cost.</b>]]></book_description>
+    <book id="35673412">
+      <num_pages>248</num_pages>
+    </book>
+    <author_name>Jason Anspach</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>2</user_rating>
+    <user_read_at><![CDATA[Thu, 11 Aug 2022 03:59:27 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Thu, 11 Aug 2022 03:59:27 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 05 Jul 2022 23:17:43 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.33</average_rating>
+    <book_published>2017</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/35673412-kill-team?utm_medium=api&amp;utm_source=rss"><img alt="Kill Team (Galaxy&#39;s Edge, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SY75_.jpg" /></a><br/>
+                                      author: Jason Anspach<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.33<br/>
+                                      book published: 2017<br/>
+                                      rating: 2<br/>
+                                      read at: 2022/08/11<br/>
+                                      date added: 2022/08/11<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3471333040?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 05 Jul 2022 23:17:24 -0700]]></pubDate>
+    <title><![CDATA[Legionnaire (Galaxy's Edge, #1)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3471333040?utm_medium=api&utm_source=rss]]></link>
+    <book_id>35427016</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[ The Galaxy is a Dumpster Fire  <br /> <br /><i>A hot, stinking, dumpster fire. And most days I don’t know if the legionnaires are putting out the flames, or fanning them into an inferno.</i> <br /> <br />A hostile force ambushes Victory Company during a reconnaissance-in-force deep inside enemy territory. Stranded behind enemy lines, a sergeant must lead a band of survivors against merciless insurgents on a deadly alien world somewhere along the galaxy’s edge. With no room for error, the Republic’s elite fighting force must struggle to survive under siege while waiting on a rescue that might never come. <br /> <br /><b>When you think you’ve surrounded the Legion... you’ve just made your last mistake.</b> <br />]]></book_description>
+    <book id="35427016">
+      <num_pages>308</num_pages>
+    </book>
+    <author_name>Jason Anspach</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Tue, 05 Jul 2022 23:17:18 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Tue, 05 Jul 2022 23:17:24 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:57 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.10</average_rating>
+    <book_published>2017</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/35427016-legionnaire?utm_medium=api&amp;utm_source=rss"><img alt="Legionnaire (Galaxy&#39;s Edge, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY75_.jpg" /></a><br/>
+                                      author: Jason Anspach<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.10<br/>
+                                      book published: 2017<br/>
+                                      rating: 5<br/>
+                                      read at: 2022/07/05<br/>
+                                      date added: 2022/07/05<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/4644996172?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Thu, 09 Jun 2022 01:16:42 -0700]]></pubDate>
@@ -225,7 +304,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3758663519?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Thu, 09 Sep 2021 10:46:34 -0700]]></pubDate>
-    <title>The Collapsing Empire</title>
+    <title><![CDATA[The Collapsing Empire (The Interdependency, #1)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3758663519?utm_medium=api&utm_source=rss]]></link>
     <book_id>30078567</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg]]></book_image_url>
@@ -249,7 +328,7 @@
     <book_published>2017</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/30078567-the-collapsing-empire?utm_medium=api&amp;utm_source=rss"><img alt="The Collapsing Empire" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/30078567-the-collapsing-empire?utm_medium=api&amp;utm_source=rss"><img alt="The Collapsing Empire (The Interdependency, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
                                       average rating: 4.07<br/>
@@ -345,7 +424,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3014755882?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Fri, 26 Mar 2021 10:40:14 -0700]]></pubDate>
-    <title><![CDATA[The Android's Dream (The Android's Dream #1)]]></title>
+    <title>The Android&apos;s Dream</title>
     <link><![CDATA[https://www.goodreads.com/review/show/3014755882?utm_medium=api&utm_source=rss]]></link>
     <book_id>7081</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441762412l/7081._SY75_.jpg]]></book_image_url>
@@ -369,7 +448,7 @@
     <book_published>2006</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/7081.The_Android_s_Dream?utm_medium=api&amp;utm_source=rss"><img alt="The Android&#39;s Dream (The Android&#39;s Dream #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441762412l/7081._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/7081.The_Android_s_Dream?utm_medium=api&amp;utm_source=rss"><img alt="The Android&#39;s Dream" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441762412l/7081._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
                                       average rating: 3.96<br/>
@@ -647,14 +726,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:55:12 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.49</average_rating>
+    <average_rating>4.48</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/24611449-back-blast?utm_medium=api&amp;utm_source=rss"><img alt="Back Blast (Gray Man, #5)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453058818l/24611449._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.49<br/>
+                                      average rating: 4.48<br/>
                                       book published: 2016<br/>
                                       rating: 4<br/>
                                       read at: 2020/03/29<br/>
@@ -927,14 +1006,14 @@
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:28:36 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.14</average_rating>
+    <average_rating>4.15</average_rating>
     <book_published>2006</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/311504.Riding_Rockets?utm_medium=api&amp;utm_source=rss"><img alt="Riding Rockets: The Outrageous Tales of a Space Shuttle Astronaut" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442025345l/311504._SY75_.jpg" /></a><br/>
                                       author: Mike Mullane<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.14<br/>
+                                      average rating: 4.15<br/>
                                       book published: 2006<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -967,14 +1046,14 @@
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:05:51 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.11</average_rating>
+    <average_rating>4.12</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth?utm_medium=api&amp;utm_source=rss"><img alt="An Astronaut&#39;s Guide to Life on Earth" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380495144l/18170143._SY75_.jpg" /></a><br/>
                                       author: Chris Hadfield<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.11<br/>
+                                      average rating: 4.12<br/>
                                       book published: 2013<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -1210,14 +1289,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:21:42 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.07</average_rating>
+    <average_rating>4.08</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/24292598-outland?utm_medium=api&amp;utm_source=rss"><img alt="Outland" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420705827l/24292598._SY75_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.07<br/>
+                                      average rating: 4.08<br/>
                                       book published: 2015<br/>
                                       rating: 1<br/>
                                       read at: <br/>
@@ -1399,7 +1478,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654566914l/35506021._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[Being a sentient spaceship really should be more fun. But after spreading out through space for almost a century, Bob and his clones just can't stay out of trouble.<br /><br />They've created enough colonies so humanity shouldn't go extinct. But political squabbles have a bad habit of dying hard, and the Brazilian probes are still trying to take out the competition. And the Bobs have picked a fight with an older, more powerful species with a large appetite and a short temper.<br /><br />Still stinging from getting their collective butts kicked in their first encounter with the Others, the Bobs now face the prospect of a decisive final battle to defend Earth and its colonies. But the Bobs are less disciplined than a herd of cats, and some of the younger copies are more concerned with their own local problems than defeating the Others.<br /><br />Yet salvation may come from an unlikely source. A couple of eighth-generation Bobs have found something out in deep space. All it will take to save the Earth and perhaps all of humanity is for them to get it to Sol - unless the Others arrive first.]]></book_description>
     <book id="35506021">
-      <num_pages>260</num_pages>
+      <num_pages>336</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
     <isbn></isbn>
@@ -1524,7 +1603,7 @@
       <num_pages>467</num_pages>
     </book>
     <author_name>Mark Greaney</author_name>
-    <isbn>0425244083</isbn>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
     <user_read_at></user_read_at>
@@ -1774,14 +1853,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:17:01 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.92</average_rating>
+    <average_rating>3.93</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/9542311-packing-for-mars?utm_medium=api&amp;utm_source=rss"><img alt="Packing for Mars: The Curious Science of Life in the Void" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311._SX50_.jpg" /></a><br/>
                                       author: Mary Roach<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.92<br/>
+                                      average rating: 3.93<br/>
                                       book published: 2010<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -2043,7 +2122,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474344826l/32109569._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[<i>Alternate Cover Edition can be found <a href="https://www.goodreads.com/book/show/34554132-we-are-legion" rel="nofollow noopener">here</a>. </i><br /><br />Bob Johansson has just sold his software company and is looking forward to a life of leisure. There are places to go, books to read, and movies to watch. So it's a little unfair when he gets himself killed crossing the street. <br /> <br />Bob wakes up a century later to find that corpsicles have been declared to be without rights, and he is now the property of the state. He has been uploaded into computer hardware and is slated to be the controlling AI in an interstellar probe looking for habitable planets. The stakes are high: no less than the first claim to entire worlds. If he declines the honor, he'll be switched off, and they'll try again with someone else. If he accepts, he becomes a prime target. There are at least three other countries trying to get their own probes launched first, and they play dirty. <br /> <br />The safest place for Bob is in space, heading away from Earth at top speed. Or so he thinks. Because the universe is full of nasties, and trespassers make them mad - very mad.]]></book_description>
     <book id="32109569">
-      <num_pages>383</num_pages>
+      <num_pages>400</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
     <isbn></isbn>
@@ -2054,14 +2133,14 @@
     <user_date_created><![CDATA[Wed, 16 Oct 2019 12:56:58 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.30</average_rating>
+    <average_rating>4.29</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob?utm_medium=api&amp;utm_source=rss"><img alt="We Are Legion (We Are Bob) (Bobiverse, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474344826l/32109569._SY75_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.30<br/>
+                                      average rating: 4.29<br/>
                                       book published: 2016<br/>
                                       rating: 5<br/>
                                       read at: <br/>
