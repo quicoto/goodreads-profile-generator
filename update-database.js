@@ -39,7 +39,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
 
         // Bypass if we're on the currently-reading
         // We don't consider found, just add them all
-        if (found === -1 || shelve === 'currently-reading') {
+        if (found === -1 || shelve === 'currently-reading' || shelve === 'to-read') {
           const title = item.title;
           const URL = getURL(item.description);
           const year = shelve === ('currently-reading' || 'to-read') ? '' : getYear(item.pubDate);
@@ -52,7 +52,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       if (newBooks !== '') {
         let content = fileContents + newBooks;
 
-        if (shelve === 'currently-reading') {
+        if (shelve === 'currently-reading' || shelve === 'to-read') {
           // Since we delete books from this shelve, we can't simply
           // add the new ones. We need to start clean
           content = newBooks
