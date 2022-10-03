@@ -54,3 +54,4 @@
 35427016|2022|Legionnaire (Galaxy's Edge, #1)|https://www.goodreads.com/book/show/35427016-legionnaire|5
 777211|2022|Executive Power (Mitch Rapp, #6)|https://www.goodreads.com/book/show/777211.Executive_Power|2
 18800655|2022|Terms of Enlistment (Frontlines #1)|https://www.goodreads.com/book/show/18800655-terms-of-enlistment|5
+20329634|2022|Lines of Departure (Frontlines, #2)|https://www.goodreads.com/book/show/20329634-lines-of-departure|3
