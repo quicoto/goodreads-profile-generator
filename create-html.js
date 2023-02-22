@@ -4,6 +4,16 @@ import { createFile, shelves, getLines, readFile } from './utils.js'
 (async () => {
   let HTML = '';
 
+  function sortByYear( a, b ) {
+    if ( +a.year < +b.year ){
+      return 1;
+    }
+    if ( +a.year > +b.year ){
+      return -1;
+    }
+    return 0;
+  }
+
   Object.keys(shelves).forEach(shelve => {
     const fileContents = readFile(shelve);
     const shelveTitle = shelves[shelve];
@@ -34,6 +44,8 @@ import { createFile, shelves, getLines, readFile } from './utils.js'
         title && years[foundIndex].books.push(book);
       }
     }
+
+    years.sort( sortByYear )
 
     years.forEach(year => {
       HTML += year.year ? `<h3>${year.year}</h3>` : '';
