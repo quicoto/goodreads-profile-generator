@@ -49,7 +49,7 @@
 51964|2019|Old Man's War (Old Man's War, #1)|https://www.goodreads.com/book/show/51964.Old_Man_s_War|5
 32109569|2019|We Are Legion (We Are Bob) (Bobiverse, #1)|https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob|5
 46223297|2019|Permanent Record|https://www.goodreads.com/book/show/46223297-permanent-record|5
-54493401||Project Hail Mary|https://www.goodreads.com/book/show/54493401-project-hail-mary|1
+54493401|2022|Project Hail Mary|https://www.goodreads.com/book/show/54493401-project-hail-mary|1
 35673412|2022|Kill Team (Galaxy&apos;s Edge, #3)|https://www.goodreads.com/book/show/35673412-kill-team|2
 35427016|2022|Legionnaire (Galaxy's Edge, #1)|https://www.goodreads.com/book/show/35427016-legionnaire|5
 777211|2022|Executive Power (Mitch Rapp, #6)|https://www.goodreads.com/book/show/777211.Executive_Power|2

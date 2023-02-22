@@ -52,7 +52,7 @@ Object.keys(shelves).forEach((shelve, shelveIndex) => {
       if (newBooks !== '') {
         let content = fileContents + newBooks;
 
-        if (shelve === 'currently-reading' || shelve === 'to-read') {
+        if (shelve === 'currently-reading' || shelve === 'to-read') {
           // Since we delete books from this shelve, we can't simply
           // add the new ones. We need to start clean
           content = newBooks
