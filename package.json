@@ -21,6 +21,6 @@
   "homepage": "https://github.com/quicoto/goodreads-profile-generator#readme",
   "dependencies": {
     "arraybuffer-xml-parser": "^0.6.0",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.1"
   }
 }
