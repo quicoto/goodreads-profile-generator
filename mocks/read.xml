@@ -3,13 +3,13 @@
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: read</title>
-    <copyright><![CDATA[Copyright (C) 2022 Goodreads Inc. All rights reserved.]]>
+    <copyright><![CDATA[Copyright (C) 2023 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read]]></link>
     <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Aug 2022 03:59:27 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 23:01:49 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: read</title>
@@ -19,6 +19,206 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5560112470?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 27 Jul 2023 23:01:49 -0700]]></pubDate>
+    <title><![CDATA[Kinetic Strike (Drop Trooper, #2)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5560112470?utm_medium=api&utm_source=rss]]></link>
+    <book_id>53493658</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590607564l/53493658._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590607564l/53493658._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590607564l/53493658._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590607564l/53493658._SX318_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The war made him a hero. Now the Marines need him to be a leader.<br /><br />Cam Alvarez is a Drop-Trooper. A warrior-knight wrapped in the futuristic armor of a high-tech battlesuit, and he’s one of the best. When he’s promoted to sergeant and asked to become a leader, he faces a whole new challenge. The Marines are striking deep into enemy territory and the casualties are mounting. <br /><br />Cam is torn, knowing his job is to follow orders and carry out the battle plan, even if he doesn’t agree with it. But his squad has become his family, and now he’s being asked to lead his family into battle, knowing it will mean their deaths.<br /><br />Can a Marine squad leader come up with a better battle plan than the high command? And will anyone listen if he does?<br /><br />Grab the explosive second installment of Rick Partlow's newest Military Sci-Fi Series and find out!]]></book_description>
+    <book id="53493658">
+      <num_pages>316</num_pages>
+    </book>
+    <author_name>Rick Partlow</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Thu, 27 Jul 2023 23:01:49 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Thu, 27 Jul 2023 23:01:49 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Fri, 19 May 2023 02:33:04 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.39</average_rating>
+    <book_published>2020</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/53493658-kinetic-strike?utm_medium=api&amp;utm_source=rss"><img alt="Kinetic Strike (Drop Trooper, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590607564l/53493658._SX50_.jpg" /></a><br/>
+                                      author: Rick Partlow<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.39<br/>
+                                      book published: 2020<br/>
+                                      rating: 4<br/>
+                                      read at: 2023/07/27<br/>
+                                      date added: 2023/07/27<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5365007686?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Fri, 19 May 2023 01:16:42 -0700]]></pubDate>
+    <title><![CDATA[Contact Front (Drop Trooper, #1)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5365007686?utm_medium=api&utm_source=rss]]></link>
+    <book_id>53292742</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590605347l/53292742._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590605347l/53292742._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590605347l/53292742._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590605347l/53292742._SX318_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Go to war or go to jail.<br /><br />For small-time street hustler Cam Alvarez, the choice is simple. He has no family, no friends, no place in the world…nothing to lose. When his latest con results in the death of a cartel hitman, Cam opts to join the Marines and leave Earth to fight a vicious alien enemy. <br /><br />Drafted into the Marine Drop-Troopers, Cam discovers there’s one thing he’s even better at than running street-con games, and that’s killing the enemy. Wrapped in an armored battlesuit, Cam finds purpose amidst the horror and destruction of the war, and the opportunity for a new sort of friends and family…if he can break the habits of a life spent alone, trusting no one. <br /><br />And, if he can survive...<br /><br />Rick Partlow returns with another kickass Military Sci-Fi epic. It's perfect for fans of Jay Allan, Jasper T. Scott, and Scott Bartlett.]]></book_description>
+    <book id="53292742">
+      <num_pages>294</num_pages>
+    </book>
+    <author_name>Rick Partlow</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Fri, 19 May 2023 01:16:42 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Fri, 19 May 2023 01:16:42 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 22 Feb 2023 04:17:02 -0800]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.26</average_rating>
+    <book_published>2020</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/53292742-contact-front?utm_medium=api&amp;utm_source=rss"><img alt="Contact Front (Drop Trooper, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590605347l/53292742._SX50_.jpg" /></a><br/>
+                                      author: Rick Partlow<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.26<br/>
+                                      book published: 2020<br/>
+                                      rating: 4<br/>
+                                      read at: 2023/05/19<br/>
+                                      date added: 2023/05/19<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5022420549?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 21 Feb 2023 14:19:28 -0800]]></pubDate>
+    <title><![CDATA[Angles of Attack (Frontlines, #3)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5022420549?utm_medium=api&utm_source=rss]]></link>
+    <book_id>24358527</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The alien forces known as the Lankies are gathering on the solar system’s edge, consolidating their conquest of Mars and setting their sights on Earth. The far-off colony of New Svalbard, cut off from the rest of the galaxy by the Lanky blockade, teeters on the verge of starvation and collapse. The forces of the two Earth alliances have won minor skirmishes but are in danger of losing the war. For battle-weary staff sergeant Andrew Grayson and the ragged forces of the North American Commonwealth, the fight for survival is entering a catastrophic new phase. Forging an uneasy alliance with their Sino-Russian enemies, the NAC launches a hybrid task force on a long shot: a stealth mission to breach the Lanky blockade and reestablish supply lines with Earth. Plunging into combat against a merciless alien species that outguns, outmaneuvers, and outfights them at every turn, Andrew and his fellow troopers could end up cornered on their home turf, with no way out and no hope for reinforcement. And this time, the struggle for humanity’s future can only end in either victory or annihilation.]]></book_description>
+    <book id="24358527">
+      <num_pages>352</num_pages>
+    </book>
+    <author_name>Marko Kloos</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at><![CDATA[Tue, 21 Feb 2023 14:19:28 -0800]]></user_read_at>
+    <user_date_added><![CDATA[Tue, 21 Feb 2023 14:19:28 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Sun, 02 Oct 2022 14:25:05 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.15</average_rating>
+    <book_published>2015</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/24358527-angles-of-attack?utm_medium=api&amp;utm_source=rss"><img alt="Angles of Attack (Frontlines, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY75_.jpg" /></a><br/>
+                                      author: Marko Kloos<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.15<br/>
+                                      book published: 2015<br/>
+                                      rating: 3<br/>
+                                      read at: 2023/02/21<br/>
+                                      date added: 2023/02/21<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/4926241592?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sun, 02 Oct 2022 14:23:54 -0700]]></pubDate>
+    <title><![CDATA[Lines of Departure (Frontlines, #2)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/4926241592?utm_medium=api&utm_source=rss]]></link>
+    <book_id>20329634</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX318_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Vicious interstellar conflict with an indestructible alien species. Bloody civil war over the last habitable zones of the cosmos. Political unrest, militaristic police forces, dire threats to the Solar System… Humanity is on the ropes, and after years of fighting a two-front war with losing odds, so is North American Defense Corps officer Andrew Grayson. He dreams of dropping out of the service one day, alongside his pilot girlfriend, but as warfare consumes entire planets and conditions on Earth deteriorate, he wonders if there will be anywhere left for them to go. After surviving a disastrous space-borne assault, Grayson is reassigned to a ship bound for a distant colony—and packed with malcontents and troublemakers. His most dangerous battle has just begun. In this sequel to the bestselling Terms of Enlistment , a weary soldier must fight to prevent the downfall of his species…or bear witness to humanity’s last, fleeting breaths.]]></book_description>
+    <book id="20329634">
+      <num_pages>329</num_pages>
+    </book>
+    <author_name>Marko Kloos</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at><![CDATA[Sun, 02 Oct 2022 14:23:54 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Sun, 02 Oct 2022 14:23:54 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 17 Aug 2022 13:27:35 -0700]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.20</average_rating>
+    <book_published>2014</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/20329634-lines-of-departure?utm_medium=api&amp;utm_source=rss"><img alt="Lines of Departure (Frontlines, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX50_.jpg" /></a><br/>
+                                      author: Marko Kloos<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.20<br/>
+                                      book published: 2014<br/>
+                                      rating: 3<br/>
+                                      read at: 2022/10/02<br/>
+                                      date added: 2022/10/02<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3103471132?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Wed, 17 Aug 2022 13:25:03 -0700]]></pubDate>
+    <title><![CDATA[Terms of Enlistment (Frontlines, #1)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3103471132?utm_medium=api&utm_source=rss]]></link>
+    <book_id>18800655</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to two thousand calories of badly flavored soy every day:<br /><br />You can hope to win the lottery and draw a ticket on a colony ship settling off-world, or you can join the service.<br /><br />With the colony lottery a pipe dream, Andrew chooses to enlist in the armed forces for a shot at real food, a retirement bonus, and maybe a ticket off Earth. But as he starts a career of supposed privilege, he soon learns that the good food and decent health care come at a steep price…and that the settled galaxy holds far greater dangers than military bureaucrats or the gangs that rule the slums.]]></book_description>
+    <book id="18800655">
+      <num_pages>345</num_pages>
+    </book>
+    <author_name>Marko Kloos</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Wed, 17 Aug 2022 13:25:03 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Wed, 17 Aug 2022 13:25:03 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.06</average_rating>
+    <book_published>2013</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/18800655-terms-of-enlistment?utm_medium=api&amp;utm_source=rss"><img alt="Terms of Enlistment (Frontlines, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg" /></a><br/>
+                                      author: Marko Kloos<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.06<br/>
+                                      book published: 2013<br/>
+                                      rating: 5<br/>
+                                      read at: 2022/08/17<br/>
+                                      date added: 2022/08/17<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/4828619476?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Thu, 11 Aug 2022 03:59:27 -0700]]></pubDate>
@@ -31,7 +231,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[ Always make 'em pay.  <br /> <br />In the aftermath of the Battle of Kublar—and the destruction of the battleship <i>Chiasm</i>—Legion Dark Ops recruits Chhun, Wraith, and the survivors of Victory Company to form an elite Kill Team of legionnaires. Their secret mission is as clear as it is deadly: find and eliminate those responsible for the Kublar disaster. <br /> <br />Standing between them and their objective are a maze of corrupt Republic officials, a spy on the verge of losing himself in deep cover, and the Zhee—a murderous species who will stop at nothing. But perhaps the biggest threat of all is the truth they seek to uncover. <br /> <br />A truth that could ignite a revolution—and engulf the galaxy in flames… <br /><b>…unless the Kill Team is willing to finish the job. At any cost.</b>]]></book_description>
     <book id="35673412">
-      <num_pages>248</num_pages>
+      <num_pages>320</num_pages>
     </book>
     <author_name>Jason Anspach</author_name>
     <isbn></isbn>
@@ -42,14 +242,14 @@
     <user_date_created><![CDATA[Tue, 05 Jul 2022 23:17:43 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.33</average_rating>
+    <average_rating>4.34</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/35673412-kill-team?utm_medium=api&amp;utm_source=rss"><img alt="Kill Team (Galaxy&#39;s Edge, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500038139l/35673412._SY75_.jpg" /></a><br/>
                                       author: Jason Anspach<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.33<br/>
+                                      average rating: 4.34<br/>
                                       book published: 2017<br/>
                                       rating: 2<br/>
                                       read at: 2022/08/11<br/>
@@ -69,7 +269,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[ The Galaxy is a Dumpster Fire  <br /> <br /><i>A hot, stinking, dumpster fire. And most days I don’t know if the legionnaires are putting out the flames, or fanning them into an inferno.</i> <br /> <br />A hostile force ambushes Victory Company during a reconnaissance-in-force deep inside enemy territory. Stranded behind enemy lines, a sergeant must lead a band of survivors against merciless insurgents on a deadly alien world somewhere along the galaxy’s edge. With no room for error, the Republic’s elite fighting force must struggle to survive under siege while waiting on a rescue that might never come. <br /> <br /><b>When you think you’ve surrounded the Legion... you’ve just made your last mistake.</b> <br />]]></book_description>
+    <book_description><![CDATA[The Galaxy is a Dumpster Fire. A hot, stinking, dumpster fire. And most days I don’t know if the legionnaires are putting out the flames, or fanning them into an inferno. A hostile force ambushes Victory Company during a reconnaissance-in-force deep inside enemy territory. Stranded behind enemy lines, a sergeant must lead a band of survivors against merciless insurgents on a deadly alien world somewhere along the galaxy’s edge. With no room for error, the Republic’s elite fighting force must struggle to survive under siege while waiting on a rescue that might never come. Join Victory Company as they fight for their lives. When you think you’ve surrounded the Legion... you’ve just made your last mistake. Available in audiobook format performed by R.C. Bray as Galaxy's Edge Part ]]></book_description>
     <book id="35427016">
       <num_pages>308</num_pages>
     </book>
@@ -82,14 +282,14 @@
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:57 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.10</average_rating>
+    <average_rating>4.11</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/35427016-legionnaire?utm_medium=api&amp;utm_source=rss"><img alt="Legionnaire (Galaxy&#39;s Edge, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY75_.jpg" /></a><br/>
                                       author: Jason Anspach<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.10<br/>
+                                      average rating: 4.11<br/>
                                       book published: 2017<br/>
                                       rating: 5<br/>
                                       read at: 2022/07/05<br/>
@@ -122,14 +322,14 @@
     <user_date_created><![CDATA[Sat, 02 Apr 2022 09:11:39 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.31</average_rating>
+    <average_rating>4.32</average_rating>
     <book_published>2003</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/777211.Executive_Power?utm_medium=api&amp;utm_source=rss"><img alt="Executive Power (Mitch Rapp, #6)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442431876l/777211._SY75_.jpg" /></a><br/>
                                       author: Vince Flynn<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.31<br/>
+                                      average rating: 4.32<br/>
                                       book published: 2003<br/>
                                       rating: 2<br/>
                                       read at: 2022/06/09<br/>
@@ -149,7 +349,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the Earth itself will perish.<br /><br />Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he's been asleep for a very, very long time. And he's just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, he realizes that an impossible task now confronts him. Alone on this tiny ship that's been cobbled together by every government and space agency on the planet and hurled into the depths of space, it's up to him to conquer an extinction-level threat to our species.<br /><br />And thanks to an unexpected ally, he just might have a chance.<br /><br />Part scientific mystery, part dazzling interstellar journey, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>—while taking us to places it never dreamed of going.]]></book_description>
+    <book_description><![CDATA[Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.<br /><br />Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.<br /><br />And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.<br /><br />Or does he?]]></book_description>
     <book id="54493401">
       <num_pages>476</num_pages>
     </book>
@@ -231,7 +431,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Mitch Rapp, CIA's top counterterrorism operative, is sent on his final mission. His target, a German Industrialist who has been selling sensitive equipment to the worlds most notorious sponsors of terrorism.]]></book_description>
+    <book_description><![CDATA[When diplomacy has failed and military intervention is deemed in appropriate, our leaders sometimes take THE THIRD OPTION. CIA counterterrorism operative Mitch Rapp falls prey to government forces with an agenda of their own after Dr. Irene Kennedy is named the successor to dying CIA Director Thomas Stansfield--a choice that enrages many inside the world's most powerful intelligence agency. Her detractors will resort to extreme measures to prevent her from taking the reins--which makes Rapp an expendable asset. But Mitch Rapp is no one's pawn, and he will stop at nothing to find out who has set him up.]]></book_description>
     <book id="184661">
       <num_pages>402</num_pages>
     </book>
@@ -244,14 +444,14 @@
     <user_date_created><![CDATA[Thu, 02 Dec 2021 13:54:17 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.25</average_rating>
+    <average_rating>4.26</average_rating>
     <book_published>2000</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/184661.The_Third_Option?utm_medium=api&amp;utm_source=rss"><img alt="The Third Option (Mitch Rapp, #4)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661._SY75_.jpg" /></a><br/>
                                       author: Vince Flynn<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.25<br/>
+                                      average rating: 4.26<br/>
                                       book published: 2000<br/>
                                       rating: 4<br/>
                                       read at: 2022/01/22<br/>
@@ -284,14 +484,14 @@
     <user_date_created><![CDATA[Thu, 20 May 2021 11:03:05 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.31</average_rating>
+    <average_rating>4.32</average_rating>
     <book_published>1999</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/184655.Transfer_of_Power?utm_medium=api&amp;utm_source=rss"><img alt="Transfer of Power (Mitch Rapp, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442152192l/184655._SY75_.jpg" /></a><br/>
                                       author: Vince Flynn<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.31<br/>
+                                      average rating: 4.32<br/>
                                       book published: 1999<br/>
                                       rating: 5<br/>
                                       read at: 2021/12/02<br/>
@@ -324,14 +524,14 @@
     <user_date_created><![CDATA[Sat, 09 Jan 2021 00:35:55 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.07</average_rating>
+    <average_rating>4.08</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/30078567-the-collapsing-empire?utm_medium=api&amp;utm_source=rss"><img alt="The Collapsing Empire (The Interdependency, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.07<br/>
+                                      average rating: 4.08<br/>
                                       book published: 2017<br/>
                                       rating: 2<br/>
                                       read at: 2021/09/09<br/>
@@ -364,14 +564,14 @@
     <user_date_created><![CDATA[Sat, 03 Oct 2020 01:00:48 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.02</average_rating>
+    <average_rating>4.04</average_rating>
     <book_published>2018</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/35108805-a-higher-loyalty?utm_medium=api&amp;utm_source=rss"><img alt="A Higher Loyalty: Truth, Lies, and Leadership" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509630796l/35108805._SY75_.jpg" /></a><br/>
                                       author: James Comey<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.02<br/>
+                                      average rating: 4.04<br/>
                                       book published: 2018<br/>
                                       rating: 4<br/>
                                       read at: 2021/07/03<br/>
@@ -431,7 +631,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441762412l/7081._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441762412l/7081._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441762412l/7081._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<div>A human diplomat kills his alien counterpart. Earth is on the verge of war with a vastly superior alien race. A lone man races against time and a host of enemies to find the one object that can save our planet and our people from alien enslavement...<br /><br />A sheep.<br /><br />That's right, a sheep. And if you think that's the most surprising thing about this book, wait until you read Chapter One. Welcome to <i>The Android's Dream.<br /></i><br />For Harry Creek, it's quickly becoming a nightmare. All he wants is to do his uncomplicated mid-level diplomatic job with Earth's State Department. But his past training and skills get him tapped to save the planet--and to protect pet store owner Robin Baker, whose own past holds the key to the whereabouts of that lost sheep. Doing both will take him from lava-strewn battlefields to alien halls of power. All in a day's work. Maybe it's time for a raise.<br /><br />Throw in two-timing freelance mercenaries, political lobbyists with megalomaniac tendencies, aliens on a religious quest, and an artificial intelligence with unusual backstory, and you've got more than just your usual science fiction adventure story. You've got <i>The Android's Dream.</i></div>]]></book_description>
+    <book_description><![CDATA[A human diplomat kills his alien counterpart. Earth is on the verge of war with a vastly superior alien race. A lone man races against time and a host of enemies to find the one object that can save our planet and our people from alien enslavement...<br /><br />A sheep.<br /><br />That's right, a sheep. And if you think that's the most surprising thing about this book, wait until you read Chapter One. Welcome to <i>The Android's Dream.<br /></i><br />For Harry Creek, it's quickly becoming a nightmare. All he wants is to do his uncomplicated mid-level diplomatic job with Earth's State Department. But his past training and skills get him tapped to save the planet--and to protect pet store owner Robin Baker, whose own past holds the key to the whereabouts of that lost sheep. Doing both will take him from lava-strewn battlefields to alien halls of power. All in a day's work. Maybe it's time for a raise.<br /><br />Throw in two-timing freelance mercenaries, political lobbyists with megalomaniac tendencies, aliens on a religious quest, and an artificial intelligence with unusual backstory, and you've got more than just your usual science fiction adventure story. You've got <i>The Android's Dream.</i>]]></book_description>
     <book id="7081">
       <num_pages>396</num_pages>
     </book>
@@ -553,7 +753,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509918589l/36542226._SX318_.jpg]]></book_large_image_url>
     <book_description><![CDATA[United Nations Special Operations Command sent an elite Expeditionary Force of soldiers and pilots out on a simple recon mission, and somehow along the way they sparked an alien civil war. Now the not-at-all-Merry Band of Pirates is in desperate trouble, again. Their stolen alien starship is falling apart, thousands of lightyears from home. The ancient alien AI they nicknamed ‘Skippy’ is apparently dead, and even if they can by some miracle revive him, he might never be the same.]]></book_description>
     <book id="36542226">
-      <num_pages>494</num_pages>
+      <num_pages>301</num_pages>
     </book>
     <author_name>Craig Alanson</author_name>
     <isbn></isbn>
@@ -564,14 +764,14 @@
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:46:01 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.37</average_rating>
+    <average_rating>4.38</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/36542226-zero-hour?utm_medium=api&amp;utm_source=rss"><img alt="Zero Hour (Expeditionary Force, #5)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509918589l/36542226._SX50_.jpg" /></a><br/>
                                       author: Craig Alanson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.37<br/>
+                                      average rating: 4.38<br/>
                                       book published: 2017<br/>
                                       rating: 3<br/>
                                       read at: 2020/08/10<br/>
@@ -604,14 +804,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:57:15 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.33</average_rating>
+    <average_rating>4.34</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/35224512-black-ops?utm_medium=api&amp;utm_source=rss"><img alt="Black Ops (Expeditionary Force, #4)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495742445l/35224512._SX50_.jpg" /></a><br/>
                                       author: Craig Alanson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.33<br/>
+                                      average rating: 4.34<br/>
                                       book published: 2017<br/>
                                       rating: 3<br/>
                                       read at: <br/>
@@ -631,12 +831,12 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[It has a dark past – one in which a number of humans were killed. A past that caused it to christen itself “Murderbot”. But it has only vague memories of the massacre that spawned that title, and it wants to know more.<br /><br />Teaming up with a Research Transport vessel named ART (you don’t want to know what the “A” stands for), Murderbot heads to the mining facility where it went rogue.<br /><br />What it discovers will forever change the way it thinks…<br /><br />]]></book_description>
+    <book_description><![CDATA[Alternate cover of ISBN 9781250186928. Another cover edition can be found <a href="https://www.goodreads.com/book/show/177384680-artificial-condition" rel="nofollow noopener">here</a> <br /><br />It has a dark past--one in which a number of humans were killed. A past that caused it to christen itself “Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don’t want to know what the “A” stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.]]></book_description>
     <book id="36223860">
       <num_pages>158</num_pages>
     </book>
     <author_name>Martha Wells</author_name>
-    <isbn>1250186927</isbn>
+    <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
     <user_read_at><![CDATA[Fri, 22 May 2020 02:20:35 -0700]]></user_read_at>
@@ -644,14 +844,14 @@
     <user_date_created><![CDATA[Tue, 25 Feb 2020 11:36:06 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.24</average_rating>
+    <average_rating>4.25</average_rating>
     <book_published>2018</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/36223860-artificial-condition?utm_medium=api&amp;utm_source=rss"><img alt="Artificial Condition (The Murderbot Diaries, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg" /></a><br/>
                                       author: Martha Wells<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.24<br/>
+                                      average rating: 4.25<br/>
                                       book published: 2018<br/>
                                       rating: 3<br/>
                                       read at: 2020/05/22<br/>
@@ -726,14 +926,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:55:12 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.48</average_rating>
+    <average_rating>4.49</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/24611449-back-blast?utm_medium=api&amp;utm_source=rss"><img alt="Back Blast (Gray Man, #5)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453058818l/24611449._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.48<br/>
+                                      average rating: 4.49<br/>
                                       book published: 2016<br/>
                                       rating: 4<br/>
                                       read at: 2020/03/29<br/>
@@ -753,7 +953,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<i>"As a heartless killing machine, I was a complete failure."</i><br /><br />In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety.<br /><br />But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.<br /><br />On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied ‘droid — a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as “Murderbot.” Scornful of humans, all it really wants is to be left alone long enough to figure out who it is.<br /><br />But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.]]></book_description>
+    <book_description><![CDATA[<i>"As a heartless killing machine, I was a complete failure."</i><br /><br />In a corporate-dominated space-faring future, planetary missions must be approved and supplied by the Company. For their own safety, exploratory teams are accompanied by Company-supplied security androids. But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.<br /><br />On a distant planet, a team of scientists is conducting surface tests, shadowed by their Company-supplied ‘droid--a self-aware SecUnit that has hacked its own governor module and refers to itself (though never out loud) as “Murderbot.” Scornful of humans, Murderbot wants is to be left alone long enough to figure out who it is, but when a neighboring mission goes dark, it's up to the scientists and Murderbot to get to the truth.]]></book_description>
     <book id="32758901">
       <num_pages>144</num_pages>
     </book>
@@ -786,7 +986,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3103491968?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Wed, 12 Feb 2020 00:05:36 -0800]]></pubDate>
-    <title><![CDATA[Without Remorse (John Clark, #1; Jack Ryan Universe Publication Order #6)]]></title>
+    <title><![CDATA[Without Remorse (John Clark, #1; Jack Ryan Universe Publication Order, #6)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3103491968?utm_medium=api&utm_source=rss]]></link>
     <book_id>19668</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310082706l/19668._SY75_.jpg]]></book_image_url>
@@ -806,14 +1006,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:36:23 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.18</average_rating>
+    <average_rating>4.19</average_rating>
     <book_published>1993</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/19668.Without_Remorse?utm_medium=api&amp;utm_source=rss"><img alt="Without Remorse (John Clark, #1; Jack Ryan Universe Publication Order #6)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310082706l/19668._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/19668.Without_Remorse?utm_medium=api&amp;utm_source=rss"><img alt="Without Remorse (John Clark, #1; Jack Ryan Universe Publication Order, #6)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310082706l/19668._SY75_.jpg" /></a><br/>
                                       author: Tom Clancy<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.18<br/>
+                                      average rating: 4.19<br/>
                                       book published: 1993<br/>
                                       rating: 1<br/>
                                       read at: 2020/02/12<br/>
@@ -846,14 +1046,14 @@
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:44:12 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.04</average_rating>
+    <average_rating>4.05</average_rating>
     <book_published>2007</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/88071.The_Last_Colony?utm_medium=api&amp;utm_source=rss"><img alt="The Last Colony (Old Man&#39;s War, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437660786l/88071._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.04<br/>
+                                      average rating: 4.05<br/>
                                       book published: 2007<br/>
                                       rating: 4<br/>
                                       read at: 2020/02/04<br/>
@@ -886,14 +1086,14 @@
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:40:26 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.79</average_rating>
+    <average_rating>3.80</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/17672008-alien?utm_medium=api&amp;utm_source=rss"><img alt="Alien: Out of the Shadows (Canonical Alien Trilogy, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364852849l/17672008._SY75_.jpg" /></a><br/>
                                       author: Tim Lebbon<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.79<br/>
+                                      average rating: 3.80<br/>
                                       book published: 2013<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -986,7 +1186,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3162757502?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 27 Jan 2020 03:28:58 -0800]]></pubDate>
-    <title><![CDATA[Riding Rockets: The Outrageous Tales of a Space Shuttle Astronaut]]></title>
+    <title>Riding Rockets</title>
     <link><![CDATA[https://www.goodreads.com/review/show/3162757502?utm_medium=api&utm_source=rss]]></link>
     <book_id>311504</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442025345l/311504._SY75_.jpg]]></book_image_url>
@@ -1010,7 +1210,7 @@
     <book_published>2006</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/311504.Riding_Rockets?utm_medium=api&amp;utm_source=rss"><img alt="Riding Rockets: The Outrageous Tales of a Space Shuttle Astronaut" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442025345l/311504._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/311504.Riding_Rockets?utm_medium=api&amp;utm_source=rss"><img alt="Riding Rockets" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442025345l/311504._SY75_.jpg" /></a><br/>
                                       author: Mike Mullane<br/>
                                       name: Ricard<br/>
                                       average rating: 4.15<br/>
@@ -1046,14 +1246,14 @@
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:05:51 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.12</average_rating>
+    <average_rating>4.13</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth?utm_medium=api&amp;utm_source=rss"><img alt="An Astronaut&#39;s Guide to Life on Earth" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380495144l/18170143._SY75_.jpg" /></a><br/>
                                       author: Chris Hadfield<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.12<br/>
+                                      average rating: 4.13<br/>
                                       book published: 2013<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -1106,17 +1306,14 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3162744194?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 27 Jan 2020 03:10:20 -0800]]></pubDate>
-    <title><![CDATA[Middle School: Get Me Out of Here!  (Middle School, #2)]]></title>
+    <title><![CDATA[Get Me out of Here! (Middle School #2)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3162744194?utm_medium=api&utm_source=rss]]></link>
     <book_id>12891160</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332234138l/12891160._SX50_.jpg]]></book_image_url>
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332234138l/12891160._SX50_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332234138l/12891160._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332234138l/12891160.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<b>Live large with James Patterson's winning follow-up to </b><b>the #1 <i>New York Times</i> bestseller</b><b>
-  <i>Middle School, The Worst Years of My Life</i>
-  <i>.</i>
-</b><br /><br />After sixth grade, the very <i>worst</i> year of his life, Rafe Khatchadorian thinks he has it made in seventh grade. He's been accepted to art school in the big city and imagines a math-and-history-free fun zone. <i>Wrong!</i> It's more competitive than Rafe ever expected, and to score big in class, he needs to find a way to turn his boring life into the inspiration for a work of art. His method? Operation: Get a Life! Anything he's never done before, he's going to do it, from learning to play poker to going to a modern art museum. But when his newest mission uncovers secrets about the family Rafe's never known, he has to decide if he's ready to have his world turned upside down.]]></book_description>
+    <book_description><![CDATA[Live large with James Patterson's winning follow-up to the #1 New York Times bestseller Middle School, The Worst Years of My Life .<br /><br /><br />After sixth grade, the very worst year of his life, Rafe Khatchadorian thinks he has it made in seventh grade. He's been accepted to art school in the big city and imagines a math-and-history-free fun zone. Wrong! It's more competitive than Rafe ever expected, and to score big in class, he needs to find a way to turn his boring life into the inspiration for a work of art. His method? Operation: Get a Life! Anything he's never done before, he's going to do it, from learning to play poker to going to a modern art museum. But when his newest mission uncovers secrets about the family Rafe's never known, he has to decide if he's ready to have his world turned upside down.]]></book_description>
     <book id="12891160">
       <num_pages>288</num_pages>
     </book>
@@ -1133,7 +1330,7 @@
     <book_published>2012</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/12891160-middle-school?utm_medium=api&amp;utm_source=rss"><img alt="Middle School: Get Me Out of Here!  (Middle School, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332234138l/12891160._SX50_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/12891160-get-me-out-of-here?utm_medium=api&amp;utm_source=rss"><img alt="Get Me out of Here! (Middle School #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332234138l/12891160._SX50_.jpg" /></a><br/>
                                       author: James Patterson<br/>
                                       name: Ricard<br/>
                                       average rating: 4.24<br/>
@@ -1149,7 +1346,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3162743888?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 27 Jan 2020 03:09:57 -0800]]></pubDate>
-    <title><![CDATA[Middle School: The Worst Years of My Life (Midde School, #1)]]></title>
+    <title><![CDATA[The Worst Years of My Life (Middle School #1)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3162743888?utm_medium=api&utm_source=rss]]></link>
     <book_id>9798177</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184921l/9798177._SX50_.jpg]]></book_image_url>
@@ -1173,7 +1370,7 @@
     <book_published>2011</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/9798177-middle-school?utm_medium=api&amp;utm_source=rss"><img alt="Middle School: The Worst Years of My Life (Midde School, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184921l/9798177._SX50_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/9798177-the-worst-years-of-my-life?utm_medium=api&amp;utm_source=rss"><img alt="The Worst Years of My Life (Middle School #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184921l/9798177._SX50_.jpg" /></a><br/>
                                       author: James Patterson<br/>
                                       name: Ricard<br/>
                                       average rating: 4.04<br/>
@@ -1209,14 +1406,14 @@
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:08:47 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.14</average_rating>
+    <average_rating>4.13</average_rating>
     <book_published>2012</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/14781201-i-funny?utm_medium=api&amp;utm_source=rss"><img alt="I Funny: A Middle School Story (I Funny, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355080573l/14781201._SX50_.jpg" /></a><br/>
                                       author: James Patterson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.14<br/>
+                                      average rating: 4.13<br/>
                                       book published: 2012<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1249,14 +1446,14 @@
     <user_date_created><![CDATA[Mon, 02 Dec 2019 13:43:27 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.65</average_rating>
+    <average_rating>3.66</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/34928122-artemis?utm_medium=api&amp;utm_source=rss"><img alt="Artemis" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494273579l/34928122._SY75_.jpg" /></a><br/>
                                       author: Andy Weir<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.65<br/>
+                                      average rating: 3.66<br/>
                                       book published: 2017<br/>
                                       rating: 3<br/>
                                       read at: 2020/01/03<br/>
@@ -1269,7 +1466,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3103470140?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Fri, 27 Dec 2019 15:21:43 -0800]]></pubDate>
-    <title>Outland</title>
+    <title>Outland (Quantum Earth, #1)</title>
     <link><![CDATA[https://www.goodreads.com/review/show/3103470140?utm_medium=api&utm_source=rss]]></link>
     <book_id>24292598</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420705827l/24292598._SY75_.jpg]]></book_image_url>
@@ -1289,14 +1486,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:21:42 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.08</average_rating>
+    <average_rating>4.06</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/24292598-outland?utm_medium=api&amp;utm_source=rss"><img alt="Outland" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420705827l/24292598._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/24292598-outland?utm_medium=api&amp;utm_source=rss"><img alt="Outland (Quantum Earth, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420705827l/24292598._SY75_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.08<br/>
+                                      average rating: 4.06<br/>
                                       book published: 2015<br/>
                                       rating: 1<br/>
                                       read at: <br/>
@@ -1329,14 +1526,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:21:11 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.18</average_rating>
+    <average_rating>4.17</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/34670700-trouble-on-paradise?utm_medium=api&amp;utm_source=rss"><img alt="Trouble on Paradise (Expeditionary Force, #3.5)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490304102l/34670700._SY75_.jpg" /></a><br/>
                                       author: Craig Alanson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.18<br/>
+                                      average rating: 4.17<br/>
                                       book published: 2017<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1396,7 +1593,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464952346l/30342581._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464952346l/30342581._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464952346l/30342581._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The sequel to 'Columbus Day'. Colonel Joe Bishop made a promise and he's going to keep it; taking the captured alien starship Flying Dutchman back out. He doesn't agree when the UN decides to send almost 70 elite Special Operations troops, hotshot pilots and scientists with him; the mission is a fool's errand he doesn't expect to ever return. At least, this time, the Earth is safe, right? <br />Not so much.]]></book_description>
+    <book_description><![CDATA[The sequel to 'Columbus Day'. Colonel Joe Bishop made a promise and he's going to keep it; taking the captured alien starship Flying Dutchman back out. He doesn't agree when the UN decides to send almost 70 elite Special Operations troops, hotshot pilots and scientists with him; the mission is a fool's errand he doesn't expect to ever return. At least, this time, the Earth is safe, right?Not so much.]]></book_description>
     <book id="30342581">
       <num_pages>277</num_pages>
     </book>
@@ -1409,14 +1606,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:57:35 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.23</average_rating>
+    <average_rating>4.24</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/30342581-specops?utm_medium=api&amp;utm_source=rss"><img alt="SpecOps (Expeditionary Force, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464952346l/30342581._SY75_.jpg" /></a><br/>
                                       author: Craig Alanson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.23<br/>
+                                      average rating: 4.24<br/>
                                       book published: 2016<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1531,14 +1728,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:54:36 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.34</average_rating>
+    <average_rating>4.33</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/17166242-dead-eye?utm_medium=api&amp;utm_source=rss"><img alt="Dead Eye (Gray Man, #4)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364849324l/17166242._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.34<br/>
+                                      average rating: 4.33<br/>
                                       book published: 2013<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1571,14 +1768,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:19:06 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.36</average_rating>
+    <average_rating>4.37</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/33395557-for-we-are-many?utm_medium=api&amp;utm_source=rss"><img alt="For We Are Many (Bobiverse, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX50_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.36<br/>
+                                      average rating: 4.37<br/>
                                       book published: 2017<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1653,14 +1850,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:53:03 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.15</average_rating>
+    <average_rating>4.14</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/8423597-on-target?utm_medium=api&amp;utm_source=rss"><img alt="On Target (Gray Man, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395181938l/8423597._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.15<br/>
+                                      average rating: 4.14<br/>
                                       book published: 2010<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1682,7 +1879,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450729699l/28261356._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[<b>Aliens exist, the government knows, and Dan McCarthy just found the proof.</b> <br /> <br />When Dan McCarthy stumbles upon a folder containing evidence of the conspiracy to end all conspiracies -- a top-level alien cover-up -- he leaks the files without a second thought. <br /> <br />The incredible truth revealed by Dan’s leak immediately captures the public’s imagination, but Dan’s relentless commitment to exposing the cover-up and forcing disclosure quickly earns him some enemies in high places. <br /> <br />For his whole life, Dan McCarthy has searched for a reason to believe. Now that he finally has one, he might soon wish he didn’t... <br /> <br /> <br /><i>Not Alone</i> is a standalone tale of contact and disclosure for the 21st century. [approx. 850 pages]]]></book_description>
     <book id="28261356">
-      <num_pages>742</num_pages>
+      <num_pages>738</num_pages>
     </book>
     <author_name>Craig A. Falconer</author_name>
     <isbn></isbn>
@@ -1800,7 +1997,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579.jpg]]></book_large_image_url>
-    <book_description><![CDATA[For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire -- both scientists and scholars -- and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.<br /><br />But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind's last best hope is faced with an agonizing choice: submit to the barbarians and be overrun -- or fight them and be destroyed.]]></book_description>
+    <book_description><![CDATA[<b>The first novel in Isaac Asimov's classic science-fiction masterpiece, the Foundation series </b><br /><br />For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future--to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save humankind, Seldon gathers the best minds in the Empire--both scientists and scholars--and brings them to a bleak planet at the edge of the galaxy to serve as a beacon of hope for future generations. He calls his sanctuary the Foundation.]]></book_description>
     <book id="29579">
       <num_pages>244</num_pages>
     </book>
@@ -1840,7 +2037,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311._SX50_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The best-selling author of <em>Stiff</em> and <em>Bonk</em> explores the irresistibly strange universe of space travel and life without gravity. From the Space Shuttle training toilet to a crash test of NASA’s new space capsule, Mary Roach takes us on the surreally entertaining trip into the science of life in space and space on Earth.]]></book_description>
+    <book_description><![CDATA[“America’s funniest science writer” ( Washington Post ) explores the irresistibly strange universe of life without gravity in this New York Times bestseller. The best-selling author of Stiff and Bonk explores the irresistibly strange universe of space travel and life without gravity. From the Space Shuttle training toilet to a crash test of NASA’s new space capsule, Mary Roach takes us on the surreally entertaining trip into the science of life in space and space on Earth.]]></book_description>
     <book id="9542311">
       <num_pages>334</num_pages>
     </book>
@@ -1853,14 +2050,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:17:01 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.93</average_rating>
+    <average_rating>3.96</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/9542311-packing-for-mars?utm_medium=api&amp;utm_source=rss"><img alt="Packing for Mars: The Curious Science of Life in the Void" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311._SX50_.jpg" /></a><br/>
                                       author: Mary Roach<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.93<br/>
+                                      average rating: 3.96<br/>
                                       book published: 2010<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1893,14 +2090,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:16:45 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.20</average_rating>
+    <average_rating>4.18</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/25541028-elon-musk?utm_medium=api&amp;utm_source=rss"><img alt="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg" /></a><br/>
                                       author: Ashlee Vance<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.20<br/>
+                                      average rating: 4.18<br/>
                                       book published: 2015<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1913,14 +2110,14 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3103420185?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Fri, 27 Dec 2019 14:50:51 -0800]]></pubDate>
-    <title><![CDATA[The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)]]></title>
+    <title><![CDATA[The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3103420185?utm_medium=api&utm_source=rss]]></link>
     <book_id>386162</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of the The Hitch Hiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out of work actor. <br /><br />Together this dynamic pair begin their journey through space aided by quotes from The Hitch Hiker's Guide "A towel is about the most massively useful thing an interstellar hitchhiker can have" and a galaxy-full of fellow travellers: Zaphod Beeblebrox - the two-headed, three-armed ex-hippie and totally out to lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ball-point pens he has bought over the years.]]></book_description>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX98_SY160_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX318_SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.<br /><br />Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide ("A towel is about the most massively useful thing an interstellar hitchhiker can have") and a galaxy-full of fellow travelers: Zaphod Beeblebrox--the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.<br /><br />Where are these pens? Why are we born? Why do we die? Why do we spend so much time between wearing digital watches? For all the answers stick your thumb to the stars. And don't forget to bring a towel!]]></book_description>
     <book id="386162">
       <num_pages>193</num_pages>
     </book>
@@ -1933,14 +2130,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:50:51 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.29</average_rating>
+    <average_rating>4.28</average_rating>
     <book_published>1979</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy?utm_medium=api&amp;utm_source=rss"><img alt="The Hitchhiker&#39;s Guide to the Galaxy (Hitchhiker&#39;s Guide to the Galaxy, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy?utm_medium=api&amp;utm_source=rss"><img alt="The Hitchhiker&#39;s Guide to the Galaxy (The Hitchhiker&#39;s Guide to the Galaxy, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg" /></a><br/>
                                       author: Douglas Adams<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.29<br/>
+                                      average rating: 4.28<br/>
                                       book published: 1979<br/>
                                       rating: 2<br/>
                                       read at: <br/>
@@ -1953,7 +2150,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3103419689?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Fri, 27 Dec 2019 14:50:33 -0800]]></pubDate>
-    <title><![CDATA[Ender's Game (Ender's Saga, #1)]]></title>
+    <title><![CDATA[Ender’s Game (Ender's Saga, #1)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3103419689?utm_medium=api&utm_source=rss]]></link>
     <book_id>375802</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg]]></book_image_url>
@@ -1977,7 +2174,7 @@
     <book_published>1985</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/375802.Ender_s_Game?utm_medium=api&amp;utm_source=rss"><img alt="Ender&#39;s Game (Ender&#39;s Saga, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/375802.Ender_s_Game?utm_medium=api&amp;utm_source=rss"><img alt="Ender’s Game (Ender&#39;s Saga, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg" /></a><br/>
                                       author: Orson Scott Card<br/>
                                       name: Ricard<br/>
                                       average rating: 4.31<br/>
@@ -2076,10 +2273,10 @@
     <title><![CDATA[Old Man's War (Old Man's War, #1)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3014756304?utm_medium=api&utm_source=rss]]></link>
     <book_id>51964</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487044882l/51964._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487044882l/51964._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487044882l/51964._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487044882l/51964.jpg]]></book_large_image_url>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461241l/51964._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461241l/51964._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461241l/51964._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461241l/51964._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[John Perry did two things on his 75th birthday. First he visited his wife's grave. Then he joined the army.<br /><br />The good news is that humanity finally made it into interstellar space. The bad news is that planets fit to live on are scarce-- and alien races willing to fight us for them are common. So: we fight. To defend Earth, and to stake our own claim to planetary real estate. Far from Earth, the war has been going on for decades: brutal, bloody, unyielding.<br /><br />Earth itself is a backwater. The bulk of humanity's resources are in the hands of the Colonial Defense Force. Everybody knows that when you reach retirement age, you can join the CDF. They don't want young people; they want people who carry the knowledge and skills of decades of living. You'll be taken off Earth and never allowed to return. You'll serve two years at the front. And if you survive, you'll be given a generous homestead stake of your own, on one of our hard-won colony planets.<br /><br />John Perry is taking that deal. He has only the vaguest idea what to expect. Because the actual fight, light-years from home, is far, far harder than he can imagine--and what he will become is far stranger.]]></book_description>
     <book id="51964">
       <num_pages>355</num_pages>
@@ -2097,7 +2294,7 @@
     <book_published>2005</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/51964.Old_Man_s_War?utm_medium=api&amp;utm_source=rss"><img alt="Old Man&#39;s War (Old Man&#39;s War, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487044882l/51964._SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/51964.Old_Man_s_War?utm_medium=api&amp;utm_source=rss"><img alt="Old Man&#39;s War (Old Man&#39;s War, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680461241l/51964._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
                                       average rating: 4.22<br/>
@@ -2122,7 +2319,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474344826l/32109569._SY475_.jpg]]></book_large_image_url>
     <book_description><![CDATA[<i>Alternate Cover Edition can be found <a href="https://www.goodreads.com/book/show/34554132-we-are-legion" rel="nofollow noopener">here</a>. </i><br /><br />Bob Johansson has just sold his software company and is looking forward to a life of leisure. There are places to go, books to read, and movies to watch. So it's a little unfair when he gets himself killed crossing the street. <br /> <br />Bob wakes up a century later to find that corpsicles have been declared to be without rights, and he is now the property of the state. He has been uploaded into computer hardware and is slated to be the controlling AI in an interstellar probe looking for habitable planets. The stakes are high: no less than the first claim to entire worlds. If he declines the honor, he'll be switched off, and they'll try again with someone else. If he accepts, he becomes a prime target. There are at least three other countries trying to get their own probes launched first, and they play dirty. <br /> <br />The safest place for Bob is in space, heading away from Earth at top speed. Or so he thinks. Because the universe is full of nasties, and trespassers make them mad - very mad.]]></book_description>
     <book id="32109569">
-      <num_pages>400</num_pages>
+      <num_pages>383</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
     <isbn></isbn>
@@ -2133,14 +2330,14 @@
     <user_date_created><![CDATA[Wed, 16 Oct 2019 12:56:58 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.29</average_rating>
+    <average_rating>4.30</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob?utm_medium=api&amp;utm_source=rss"><img alt="We Are Legion (We Are Bob) (Bobiverse, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474344826l/32109569._SY75_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.29<br/>
+                                      average rating: 4.30<br/>
                                       book published: 2016<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -2160,7 +2357,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<b>Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down.</b><br /><br />In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it.<br /><br />Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, <i>Permanent Record</i> is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, <i>Permanent Record</i> is a crucial memoir of our digital age and destined to be a classic.]]></book_description>
+    <book_description><![CDATA[Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down.<br /><br />In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it.<br /><br />Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, <i>Permanent Record</i> is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, <i>Permanent Record</i> is a crucial memoir of our digital age and destined to be a classic.]]></book_description>
     <book id="46223297">
       <num_pages>339</num_pages>
     </book>
@@ -2173,14 +2370,14 @@
     <user_date_created><![CDATA[Wed, 16 Oct 2019 12:52:08 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.29</average_rating>
+    <average_rating>4.30</average_rating>
     <book_published>2019</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/46223297-permanent-record?utm_medium=api&amp;utm_source=rss"><img alt="Permanent Record" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg" /></a><br/>
                                       author: Edward Snowden<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.29<br/>
+                                      average rating: 4.30<br/>
                                       book published: 2019<br/>
                                       rating: 5<br/>
                                       read at: 2019/10/16<br/>

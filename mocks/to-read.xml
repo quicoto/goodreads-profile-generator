@@ -1,15 +1,16 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: to-read</title>
-    <copyright><![CDATA[Copyright (C) 2022 Goodreads Inc. All rights reserved.]]>
+    <copyright><![CDATA[Copyright (C) 2023 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=to-read]]></link>
     <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=to-read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: to-read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Mar 2021 15:22:05 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 23:03:07 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: to-read</title>
@@ -20,240 +21,160 @@
     </image>
 
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3878229692?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Sun, 07 Mar 2021 15:22:05 -0800]]></pubDate>
-    <title><![CDATA[Guantánamo Diary: Restored Edition]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3878229692?utm_medium=api&utm_source=rss]]></link>
-    <book_id>35271522</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506551490l/35271522._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506551490l/35271522._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506551490l/35271522._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506551490l/35271522._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<b>An unprecedented international publishing event: the first and only diary written by a still-imprisoned Guantanamo detainee.</b><br /><br /> Since 2002, Mohamedou Slahi has been imprisoned at the detainee camp at Guantanamo Bay, Cuba. In all these years, the United States has never charged him with a crime. Although he was ordered released by a federal judge, the U.S. government fought that decision, and there is no sign that the United States plans to let him go.<br /><br /> Three years into his captivity Slahi began a diary, recounting his life before he disappeared into U.S. custody and daily life as a detainee. His diary is not merely a vivid record of a miscarriage of justice, but a deeply personal memoir -- terrifying, darkly humorous, and surprisingly gracious. Published now for the first time, <i>Guantanamo Diary</i> is a document of immense historical importance.]]></book_description>
-    <book id="35271522">
-      <num_pages>410</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5725771851?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 27 Jul 2023 23:03:07 -0700]]></pubDate>
+    <title><![CDATA[Danger Close (Drop Trooper, #3)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5725771851?utm_medium=api&utm_source=rss]]></link>
+    <book_id>58839213</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629756617l/58839213._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629756617l/58839213._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629756617l/58839213._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629756617l/58839213._SX318_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[* Duration: 8 hours and 23 minutes *<br /><br /><b>All Cam Alvarez has known is war.</b><br /><br />For three years, he's fought the marauding alien Tahni on one God-forsaken planet after another, leading a squad of armored Drop Troopers.<br /><br />But the war is about to change.<br /><br />Cam is an officer now, fresh out of OCS and taking charge of his old platoon, and things have reached a tipping point. Instead of fighting a desperate holding action against the enemy, the Commonwealth is finally ready to take back the human colonies the Tahni seized early in the war. To free the people the enemy have kept as human shields<br /><br />However, victory comes at a price. Both for the hostage colonists and the Marines who fight to free them. When innocent lives are at stake, every shot fired is danger close...]]></book_description>
+    <book id="58839213">
+      <num_pages>8</num_pages>
     </book>
-    <author_name>Mohamedou Ould Slahi</author_name>
-    <isbn>0316517887</isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Sun, 07 Mar 2021 15:22:05 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Sun, 07 Mar 2021 15:22:05 -0800]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.17</average_rating>
-    <book_published>2015</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/35271522-guant-namo-diary?utm_medium=api&amp;utm_source=rss"><img alt="Guantánamo Diary: Restored Edition" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506551490l/35271522._SX50_.jpg" /></a><br/>
-                                      author: Mohamedou Ould Slahi<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.17<br/>
-                                      book published: 2015<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2021/03/07<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3471332656?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Wed, 24 Feb 2021 10:38:08 -0800]]></pubDate>
-    <title><![CDATA[Valkyrie (Expeditionary Force, #9)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3471332656?utm_medium=api&utm_source=rss]]></link>
-    <book_id>49016595</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575134385l/49016595._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575134385l/49016595._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575134385l/49016595._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575134385l/49016595._SX318_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[After saving the world many times, the Merry Band of Pirates have accepted the inevitable: Earth is doomed. All they can do is try to bring a few thousand people to safety, before vicious aliens arrive to destroy humanity's homeworld. No. There is one other thing they can do: hit the enemy so hard that the aliens will regret they ever heard of humans.]]></book_description>
-    <book id="49016595">
-      <num_pages>398</num_pages>
-    </book>
-    <author_name>Craig Alanson</author_name>
+    <author_name>Rick Partlow</author_name>
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Wed, 24 Feb 2021 10:38:08 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:18 -0700]]></user_date_created>
+    <user_date_added><![CDATA[Thu, 27 Jul 2023 23:03:07 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Thu, 27 Jul 2023 23:03:07 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.38</average_rating>
-    <book_published>2019</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/49016595-valkyrie?utm_medium=api&amp;utm_source=rss"><img alt="Valkyrie (Expeditionary Force, #9)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575134385l/49016595._SX50_.jpg" /></a><br/>
-                                      author: Craig Alanson<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.38<br/>
-                                      book published: 2019<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2021/02/24<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3583653643?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 06 Oct 2020 13:07:16 -0700]]></pubDate>
-    <title><![CDATA[Tinker, Tailor, Soldier, Spy (George Smiley, #5; Karla Trilogy #1)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3583653643?utm_medium=api&utm_source=rss]]></link>
-    <book_id>10073506</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201l/10073506._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201l/10073506._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201l/10073506._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201l/10073506.jpg]]></book_large_image_url>
-    <book_description><![CDATA[A modern classic in which John le Carré expertly creates a total vision of a secret world, <i>Tinker, Tailor, Soldier, Spy</i> begins George Smiley's chess match of wills and wits with Karla, his Soviet counterpart. <br /><br />It is now beyond a doubt that a mole, implanted decades ago by Moscow Centre, has burrowed his way into the highest echelons of British Intelligence. His treachery has already blown some of its most vital operations and its best networks. It is clear that the double agent is one of its own kind. But which one? George Smiley is assigned to identify him. And once identified, the traitor must be destroyed.]]></book_description>
-    <book id="10073506">
-      <num_pages>381</num_pages>
-    </book>
-    <author_name>John le Carré</author_name>
-    <isbn>0143119788</isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 06 Oct 2020 13:07:16 -0700]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 06 Oct 2020 13:07:15 -0700]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.05</average_rating>
-    <book_published>1974</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy?utm_medium=api&amp;utm_source=rss"><img alt="Tinker, Tailor, Soldier, Spy (George Smiley, #5; Karla Trilogy #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201l/10073506._SX50_.jpg" /></a><br/>
-                                      author: John le Carré<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.05<br/>
-                                      book published: 1974<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2020/10/06<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3471332673?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Fri, 31 Jul 2020 03:22:20 -0700]]></pubDate>
-    <title><![CDATA[Critical Mass (Expeditionary Force, #10)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3471332673?utm_medium=api&utm_source=rss]]></link>
-    <book_id>53179797</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607707523l/53179797._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607707523l/53179797._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607707523l/53179797._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607707523l/53179797.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The Merry Band of Pirates are in desperate trouble after the end of their last mission, and the real danger to humanity is just getting started. Hostile aliens have discovered there is something odd going on with wormholes in the galaxy, and their investigations could lead to finding a shortcut to Earth....]]></book_description>
-    <book id="53179797">
-      <num_pages>395</num_pages>
-    </book>
-    <author_name>Craig Alanson</author_name>
-    <isbn></isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:20 -0700]]></user_date_added>
-    <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:19 -0700]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.53</average_rating>
+    <average_rating>3.80</average_rating>
     <book_published>2020</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/53179797-critical-mass?utm_medium=api&amp;utm_source=rss"><img alt="Critical Mass (Expeditionary Force, #10)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607707523l/53179797._SX50_.jpg" /></a><br/>
-                                      author: Craig Alanson<br/>
+      <a href="https://www.goodreads.com/book/show/58839213-danger-close?utm_medium=api&amp;utm_source=rss"><img alt="Danger Close (Drop Trooper, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629756617l/58839213._SX50_.jpg" /></a><br/>
+                                      author: Rick Partlow<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.53<br/>
+                                      average rating: 3.80<br/>
                                       book published: 2020<br/>
                                       rating: 0<br/>
                                       read at: <br/>
-                                      date added: 2020/07/31<br/>
+                                      date added: 2023/07/27<br/>
                                       shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3471332642?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Fri, 31 Jul 2020 03:22:17 -0700]]></pubDate>
-    <title><![CDATA[Armageddon (Expeditionary Force, #8)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3471332642?utm_medium=api&utm_source=rss]]></link>
-    <book_id>52736489</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417386l/52736489._SX50_SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417386l/52736489._SX50_SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417386l/52736489._SX98_SY160_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417386l/52736489._SX318_SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[After the Renegade mission by the crew of the starship Flying Dutchman, the UN Expeditionary Force thought Earth was safe for hundreds of years, at least. After there was trouble on the Homefront, and the President had to authorize a nuclear strike on an American city. UNEF decided they did need the Merry Band of Pirates again. So, the Flying Dutchman is sent out on a simple recon mission. But for the Pirates, nothing is ever simple, and their mission will become Armageddon]]></book_description>
-    <book id="52736489">
-      <num_pages>456</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5367235199?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Wed, 22 Feb 2023 22:57:46 -0800]]></pubDate>
+    <title><![CDATA[Pandora's Star (Commonwealth Saga, #1)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5367235199?utm_medium=api&utm_source=rss]]></link>
+    <book_id>45252</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX318_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The year is 2380. The Intersolar Commonwealth, a sphere of stars some four hundred light-years in diameter, contains more than six hundred worlds, interconnected by a web of transport "tunnels" known as wormholes. At the farthest edge of the Commonwealth, astronomer Dudley Bose observes the impossible: Over one thousand light-years away, a star... vanishes. It does not go supernova. It does not collapse into a black hole. It simply disappears. Since the location is too distant to reach by wormhole, a faster-than-light starship, the <i>Second Chance</i>, is dispatched to learn what has occurred and whether it represents a threat. In command is Wilson Kime, a five-time rejuvenated ex-NASA pilot whose glory days are centuries behind him.<br /><br />Opposed to the mission are the Guardians of Selfhood, a cult that believes the human race is being manipulated by an alien entity they call the Starflyer. Bradley Johansson, leader of the Guardians, warns of sabotage, fearing the Starflyer means to use the starship's mission for its own ends.<br /><br />Pursued by a Commonwealth special agent convinced the Guardians are crazy but dangerous, Johansson flees. But the danger is not averted. Aboard the Second Chance, Kime wonders if his crew has been infiltrated. Soon enough, he will have other worries. A thousand light-years away, something truly incredible is waiting: a deadly discovery whose unleashing will threaten to destroy the Commonwealth... and humanity itself. Could it be that Johansson was right?]]></book_description>
+    <book id="45252">
+      <num_pages>768</num_pages>
     </book>
-    <author_name>Craig Alanson</author_name>
-    <isbn></isbn>
+    <author_name>Peter F. Hamilton</author_name>
+    <isbn>0345461622</isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:17 -0700]]></user_date_added>
-    <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:16 -0700]]></user_date_created>
+    <user_date_added><![CDATA[Wed, 22 Feb 2023 22:57:46 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 22 Feb 2023 22:57:45 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.43</average_rating>
-    <book_published>2019</book_published>
+    <average_rating>4.24</average_rating>
+    <book_published>2004</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/52736489-armageddon?utm_medium=api&amp;utm_source=rss"><img alt="Armageddon (Expeditionary Force, #8)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417386l/52736489._SX50_SY75_.jpg" /></a><br/>
-                                      author: Craig Alanson<br/>
+      <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star?utm_medium=api&amp;utm_source=rss"><img alt="Pandora&#39;s Star (Commonwealth Saga, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX50_.jpg" /></a><br/>
+                                      author: Peter F. Hamilton<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.43<br/>
-                                      book published: 2019<br/>
+                                      average rating: 4.24<br/>
+                                      book published: 2004<br/>
                                       rating: 0<br/>
                                       read at: <br/>
-                                      date added: 2020/07/31<br/>
+                                      date added: 2023/02/22<br/>
                                       shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3471332619?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Fri, 31 Jul 2020 03:22:13 -0700]]></pubDate>
-    <title><![CDATA[Renegades (Expeditionary Force, #7)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3471332619?utm_medium=api&utm_source=rss]]></link>
-    <book_id>42844512</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542388910l/42844512._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542388910l/42844512._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542388910l/42844512._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542388910l/42844512._SX318_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The battle-scarred star carrier Flying Dutchman is finally on her way back to Earth, after an exceptionally successful series of missions that have once again Saved The World. The ship needs a serious refit, and her exhausted crew just wants a break from constant clandestine warfare against a vicious and superior enemy. Wishes come true, right? Not for the Merry Band of Pirates.]]></book_description>
-    <book id="42844512">
-      <num_pages>316</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/3165232200?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Wed, 22 Feb 2023 04:47:47 -0800]]></pubDate>
+    <title>Agent in Place (Gray Man, #7)</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/3165232200?utm_medium=api&utm_source=rss]]></link>
+    <book_id>35186458</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<b>The Gray Man is back in another nonstop international thriller from #1 <i>New York Times</i> bestselling coauthor of Tom Clancy's Jack Ryan novels</b><br /><br />Fresh off his first mission back with the CIA, Court Gentry secures what seems like a cut-and-dried contract job: A group of expats in Paris hires him to kidnap the mistress of Syrian dictator Ahmed Azzam to get intel that could destabilize Azzam's regime. <br /><br />Court delivers Bianca Medina to the rebels, but his job doesn't end there. She soon reveals that she has given birth to a son, the only heir to Azzam's rule--and a potent threat to the Syrian president's powerful wife. <br /><br />Now, to get Bianca's cooperation, Court must bring her son out of Syria alive. With the clock ticking on Bianca's life, he goes off the grid in a free-fire zone in the Middle East--and winds up in the right place at the right time to take a shot at bringing one of the most brutal dictatorships on earth to a close...]]></book_description>
+    <book id="35186458">
+      <num_pages>507</num_pages>
     </book>
-    <author_name>Craig Alanson</author_name>
-    <isbn></isbn>
+    <author_name>Mark Greaney</author_name>
+    <isbn>0451488903</isbn>
     <user_name>Ricard</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Fri, 31 Jul 2020 03:22:13 -0700]]></user_date_added>
-    <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:13 -0700]]></user_date_created>
+    <user_date_added><![CDATA[Wed, 22 Feb 2023 04:47:47 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 28 Jan 2020 14:26:21 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.37</average_rating>
+    <average_rating>4.29</average_rating>
     <book_published>2018</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/42844512-renegades?utm_medium=api&amp;utm_source=rss"><img alt="Renegades (Expeditionary Force, #7)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542388910l/42844512._SX50_.jpg" /></a><br/>
-                                      author: Craig Alanson<br/>
+      <a href="https://www.goodreads.com/book/show/35186458-agent-in-place?utm_medium=api&amp;utm_source=rss"><img alt="Agent in Place (Gray Man, #7)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SY75_.jpg" /></a><br/>
+                                      author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.37<br/>
+                                      average rating: 4.29<br/>
                                       book published: 2018<br/>
                                       rating: 0<br/>
                                       read at: <br/>
-                                      date added: 2020/07/31<br/>
+                                      date added: 2023/02/22<br/>
+                                      shelves: to-read<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5365007809?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Wed, 22 Feb 2023 04:17:09 -0800]]></pubDate>
+    <title><![CDATA[Against All Odds (Grimm's War, #1)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5365007809?utm_medium=api&utm_source=rss]]></link>
+    <book_id>59775812</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Idealistic navy Lieutenant Jacob Grimm just wanted to honor his mother's sacrifice in the last great war. When he's forced to return fire and destroy a squadron of ships to save his own, he thinks he's the hero....<br /><br />Until they discover the ships are full of children.<br /><br />Disgraced and denied promotion, Jacob's career is over. That is until the head of ONI needs a disposable officer to command a battered destroyer on the rim.]]></book_description>
+    <book id="59775812">
+      <num_pages>448</num_pages>
+    </book>
+    <author_name>Jeffery H. Haskell</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Wed, 22 Feb 2023 04:17:09 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 22 Feb 2023 04:17:08 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.51</average_rating>
+    <book_published>2022</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/59775812-against-all-odds?utm_medium=api&amp;utm_source=rss"><img alt="Against All Odds (Grimm&#39;s War, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg" /></a><br/>
+                                      author: Jeffery H. Haskell<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.51<br/>
+                                      book published: 2022<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2023/02/22<br/>
                                       shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
@@ -311,7 +232,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX318_.jpg]]></book_large_image_url>
     <book_description><![CDATA[<i>Listening Length: 16 hours and 57 minutes</i><br /><br /><b>Civil war looms in the Bobiverse in this brand-new, epic-length adventure by best seller Dennis E. Taylor.</b><br /><br />More than a hundred years ago, Bender set out for the stars and was never heard from again. There has been no trace of him despite numerous searches by his clone-mates. Now Bob is determined to organize an expedition to learn Bender’s fate—whatever the cost.<br /><br />But nothing is ever simple in the Bobiverse. Bob’s descendants are out to the 24th generation now, and replicative drift has produced individuals who can barely be considered Bobs anymore. Some of them oppose Bob’s plan; others have plans of their own. The out-of-control moots are the least of the Bobiverse’s problems.<br /><br />Undaunted, Bob and his allies follow Bender’s trail. But what they discover out in deep space is so unexpected and so complex that it could either save the universe—or pose an existential threat the likes of which the Bobiverse has never faced.]]></book_description>
     <book id="42950440">
-      <num_pages>608</num_pages>
+      <num_pages>17</num_pages>
     </book>
     <author_name>Dennis E. Taylor</author_name>
     <isbn></isbn>
@@ -322,14 +243,14 @@
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:21:43 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.28</average_rating>
+    <average_rating>4.27</average_rating>
     <book_published>2020</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/42950440-heaven-s-river?utm_medium=api&amp;utm_source=rss"><img alt="Heaven&#39;s River (Bobiverse, #4)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593705196l/42950440._SX50_.jpg" /></a><br/>
                                       author: Dennis E. Taylor<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.28<br/>
+                                      average rating: 4.27<br/>
                                       book published: 2020<br/>
                                       rating: 0<br/>
                                       read at: <br/>
@@ -389,7 +310,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527919746l/40187317._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527919746l/40187317._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527919746l/40187317.jpg]]></book_large_image_url>
-    <book_description><![CDATA[From Mark Greaney, the New York Times bestselling author of Gunmetal Gray and a coauthor of Tom Clancy's Jack Ryan novels, comes a high-stakes thriller featuring the world's most dangerous assassin: the Gray Man.<br /><br />Court Gentry's flight on a CIA transport plane is interrupted when a security team brings a hooded man aboard. They want to kick Gentry off the flight but are overruled by CIA headquarters. The mystery man is being transported to England where a joint CIA/MI6 team will interrogate him about a mole in Langley.<br /><br />When they land in an isolated airbase in the U.K., they are attacked by a hostile force who kidnaps the prisoner. Only Gentry escapes. His handlers send him after the attackers, but what can one operative do against a trained team of assassins? A lot, when that operative is the Gray Man.]]></book_description>
+    <book_description><![CDATA[<b>From Mark Greaney, the <i>New York Times </i>bestselling author of <i>Gunmetal Gray</i> and a coauthor of Tom Clancy's Jack Ryan novels, comes a high-stakes thriller featuring the world's most dangerous assassin: the Gray Man.</b><br /><br />Court Gentry's flight on a CIA transport plane is interrupted when a security team brings a hooded man aboard. They want to kick Gentry off the flight but are overruled by CIA headquarters. The mystery man is being transported to England where a joint CIA/MI6 team will interrogate him about a mole in Langley.<br /><br />When they land in an isolated airbase in the U.K., they are attacked by a hostile force who kidnaps the prisoner. Only Gentry escapes. His handlers send him after the attackers, but what can one operative do against a trained team of assassins? A lot, when that operative is the Gray Man.]]></book_description>
     <book id="40187317">
       <num_pages>512</num_pages>
     </book>
@@ -402,14 +323,14 @@
     <user_date_created><![CDATA[Tue, 28 Jan 2020 14:26:23 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.35</average_rating>
+    <average_rating>4.36</average_rating>
     <book_published>2019</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/40187317-mission-critical?utm_medium=api&amp;utm_source=rss"><img alt="Mission Critical (Gray Man, #8)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527919746l/40187317._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.35<br/>
+                                      average rating: 4.36<br/>
                                       book published: 2019<br/>
                                       rating: 0<br/>
                                       read at: <br/>
@@ -456,46 +377,6 @@
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2020/01/28<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3103471132?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></pubDate>
-    <title><![CDATA[Terms of Enlistment (Frontlines #1)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3103471132?utm_medium=api&utm_source=rss]]></link>
-    <book_id>18800655</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to two thousand calories of badly flavored soy every day:<br /><br />You can hope to win the lottery and draw a ticket on a colony ship settling off-world, or you can join the service.<br /><br />With the colony lottery a pipe dream, Andrew chooses to enlist in the armed forces for a shot at real food, a retirement bonus, and maybe a ticket off Earth. But as he starts a career of supposed privilege, he soon learns that the good food and decent health care come at a steep price…and that the settled galaxy holds far greater dangers than military bureaucrats or the gangs that rule the slums.]]></book_description>
-    <book id="18800655">
-      <num_pages>347</num_pages>
-    </book>
-    <author_name>Marko Kloos</author_name>
-    <isbn></isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.04</average_rating>
-    <book_published>2013</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/18800655-terms-of-enlistment?utm_medium=api&amp;utm_source=rss"><img alt="Terms of Enlistment (Frontlines #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391472650l/18800655._SX50_.jpg" /></a><br/>
-                                      author: Marko Kloos<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.04<br/>
-                                      book published: 2013<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2019/12/27<br/>
                                       shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
