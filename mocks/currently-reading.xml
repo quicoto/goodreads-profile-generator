@@ -1,15 +1,16 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: currently-reading</title>
-    <copyright><![CDATA[Copyright (C) 2022 Goodreads Inc. All rights reserved.]]>
+    <copyright><![CDATA[Copyright (C) 2024 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=currently-reading]]></link>
     <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=currently-reading" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: currently-reading]]></description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Mar 2021 10:41:41 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 23:12:41 -0800</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: currently-reading</title>
@@ -19,46 +20,6 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/3165232200?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Fri, 26 Mar 2021 10:41:41 -0700]]></pubDate>
-    <title>Agent in Place (Gray Man, #7)</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/3165232200?utm_medium=api&utm_source=rss]]></link>
-    <book_id>35186458</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Court Gentry is back in action. This time he's working on behalf of a well-connected group of Syrian expats to secure the Syrian president's mistress so they can use her to bring down the president's regime. But the expats' plan goes awry when it's discovered the mistress has a baby--the Syrian president's only male heir--hidden away in a Damascus safe house.<br /><br />Court goes after the baby, a decision that comes at the price of the mistress's life. The expat organization deems the boy now useless to their cause and refuses to protect him against the Syrian first lady and the notorious Swiss assassin in her employ. With no support on the way, Court realizes he'll have to take down the Syrian president himself if he and the boy are going to make it out alive...]]></book_description>
-    <book id="35186458">
-      <num_pages>507</num_pages>
-    </book>
-    <author_name>Mark Greaney</author_name>
-    <isbn>0451488903</isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Fri, 26 Mar 2021 10:41:41 -0700]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 28 Jan 2020 14:26:21 -0800]]></user_date_created>
-    <user_shelves>currently-reading</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.29</average_rating>
-    <book_published>2018</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/35186458-agent-in-place?utm_medium=api&amp;utm_source=rss"><img alt="Agent in Place (Gray Man, #7)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496893513l/35186458._SY75_.jpg" /></a><br/>
-                                      author: Mark Greaney<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.29<br/>
-                                      book published: 2018<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2021/03/26<br/>
-                                      shelves: currently-reading<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
 
   </channel>
 </rss>

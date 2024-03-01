@@ -4,13 +4,13 @@
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: to-read</title>
-    <copyright><![CDATA[Copyright (C) 2023 Goodreads Inc. All rights reserved.]]>
+    <copyright><![CDATA[Copyright (C) 2024 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=to-read]]></link>
     <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=to-read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: to-read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Jul 2023 23:03:07 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 10:09:22 -0800</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: to-read</title>
@@ -20,6 +20,46 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/6304575342?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 29 Feb 2024 10:09:22 -0800]]></pubDate>
+    <title><![CDATA[One Decisive Victory (Grimm's War, #3)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/6304575342?utm_medium=api&utm_source=rss]]></link>
+    <book_id>60868691</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743128l/60868691._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743128l/60868691._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743128l/60868691._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743128l/60868691._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<b>The Alliance needs to strike back, but the politicians are cowards. Admiral Wit DeBeck has a simple three step plan to punch the Caliphate right in the nose and send a clear message.</b><br /><br />Step 1: Kick Lieutenant Jacob T. Grimm out of the navy and have him steal his own ship.<br /><br />Step 2: Infiltrate Caliphate space and mount a rescue mission on their slave distribution hub.<br /><br />Step 3: Get out alive.<br /><br />The only ship that can do it, has the only captain with nothing to lose. The Caliphate struck first, but Jacob is going to strike hardest.<br /><br />Between stealing his own ship, Zuckabar separatists, and rogue pirates, the Interceptor has a gravcoil full of trouble before they even enter hostile space.<br /><br />However, there’s a problem in orbit that Jacob doesn’t know about. Even if they can rescue the slaves, they may never leave the system.<br /><br />If Jacob can’t find a way to succeed, then the Alliance is headed for a war they can’t win, and all of humanity will pay the price.]]></book_description>
+    <book id="60868691">
+      <num_pages>416</num_pages>
+    </book>
+    <author_name>Jeffery H. Haskell</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Thu, 29 Feb 2024 10:09:22 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Thu, 29 Feb 2024 10:09:22 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.46</average_rating>
+    <book_published>2022</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/60868691-one-decisive-victory?utm_medium=api&amp;utm_source=rss"><img alt="One Decisive Victory (Grimm&#39;s War, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743128l/60868691._SY75_.jpg" /></a><br/>
+                                      author: Jeffery H. Haskell<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.46<br/>
+                                      book published: 2022<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2024/02/29<br/>
+                                      shelves: to-read<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/5725771851?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Thu, 27 Jul 2023 23:03:07 -0700]]></pubDate>
@@ -141,46 +181,6 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/5365007809?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Wed, 22 Feb 2023 04:17:09 -0800]]></pubDate>
-    <title><![CDATA[Against All Odds (Grimm's War, #1)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/5365007809?utm_medium=api&utm_source=rss]]></link>
-    <book_id>59775812</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Idealistic navy Lieutenant Jacob Grimm just wanted to honor his mother's sacrifice in the last great war. When he's forced to return fire and destroy a squadron of ships to save his own, he thinks he's the hero....<br /><br />Until they discover the ships are full of children.<br /><br />Disgraced and denied promotion, Jacob's career is over. That is until the head of ONI needs a disposable officer to command a battered destroyer on the rim.]]></book_description>
-    <book id="59775812">
-      <num_pages>448</num_pages>
-    </book>
-    <author_name>Jeffery H. Haskell</author_name>
-    <isbn></isbn>
-    <user_name>Ricard</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Wed, 22 Feb 2023 04:17:09 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Wed, 22 Feb 2023 04:17:08 -0800]]></user_date_created>
-    <user_shelves>to-read</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.51</average_rating>
-    <book_published>2022</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/59775812-against-all-odds?utm_medium=api&amp;utm_source=rss"><img alt="Against All Odds (Grimm&#39;s War, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg" /></a><br/>
-                                      author: Jeffery H. Haskell<br/>
-                                      name: Ricard<br/>
-                                      average rating: 4.51<br/>
-                                      book published: 2022<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2023/02/22<br/>
-                                      shelves: to-read<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3471332613?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Fri, 31 Jul 2020 03:22:12 -0700]]></pubDate>
     <title><![CDATA[Mavericks (Expeditionary Force, #6)]]></title>
@@ -272,7 +272,7 @@
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327889474l/12287209.jpg]]></book_large_image_url>
     <book_description><![CDATA[Thousands of them have lived underground. They've lived there so long, there are only legends about people living anywhere else. Such a life requires rules. Strict rules. There are things that must not be discussed. Like going outside. Never mention you might like going outside.<br /><br />Or you'll get what you wish for.]]></book_description>
     <book id="12287209">
-      <num_pages>58</num_pages>
+      <num_pages>594</num_pages>
     </book>
     <author_name>Hugh Howey</author_name>
     <isbn></isbn>
@@ -283,14 +283,14 @@
     <user_date_created><![CDATA[Thu, 12 Mar 2020 01:27:18 -0700]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.12</average_rating>
+    <average_rating>4.13</average_rating>
     <book_published>2011</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/12287209-wool?utm_medium=api&amp;utm_source=rss"><img alt="Wool (Wool, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327889474l/12287209._SY75_.jpg" /></a><br/>
                                       author: Hugh Howey<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.12<br/>
+                                      average rating: 4.13<br/>
                                       book published: 2011<br/>
                                       rating: 0<br/>
                                       read at: <br/>
@@ -323,14 +323,14 @@
     <user_date_created><![CDATA[Tue, 28 Jan 2020 14:26:23 -0800]]></user_date_created>
     <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.36</average_rating>
+    <average_rating>4.35</average_rating>
     <book_published>2019</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/40187317-mission-critical?utm_medium=api&amp;utm_source=rss"><img alt="Mission Critical (Gray Man, #8)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527919746l/40187317._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.36<br/>
+                                      average rating: 4.35<br/>
                                       book published: 2019<br/>
                                       rating: 0<br/>
                                       read at: <br/>

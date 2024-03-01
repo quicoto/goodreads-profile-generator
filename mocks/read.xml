@@ -1,15 +1,16 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Ricard's bookshelf: read</title>
-    <copyright><![CDATA[Copyright (C) 2023 Goodreads Inc. All rights reserved.]]>
+    <copyright><![CDATA[Copyright (C) 2024 Goodreads Inc. All rights reserved.]]>
     </copyright>
     <link><![CDATA[https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read]]></link>
     <atom:link href="https://www.goodreads.com/review/list_rss/104159625?key=&amp;shelf=read" rel="self" type="application/rss+xml" />
     <description><![CDATA[Ricard's bookshelf: read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Jul 2023 23:01:49 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 10:08:34 -0800</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Ricard's bookshelf: read</title>
@@ -19,6 +20,86 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/6053793038?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 29 Feb 2024 10:08:34 -0800]]></pubDate>
+    <title><![CDATA[With Grimm Resolve (Grimm's War, #2)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/6053793038?utm_medium=api&utm_source=rss]]></link>
+    <book_id>60868692</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743129l/60868692._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743129l/60868692._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743129l/60868692._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743129l/60868692._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<b>It’s not the size of the ship in the fight, but the size of the fight in the ship.</b><br /><br />Jacob Grimm returns as CO of USS Interceptor just a few weeks after he graduated from command school. He’s immediately sent on a rescue mission to the far side of Zuckabar, with no backup and dwindling supplies.<br /><br />When an unknown enemy cripples his ship on the outskirts of the system, the crew must come together and track their mysterious foe out into the unknown.<br /><br /><br />An incredible discovery leads them to another system. Trapped on the wrong side of a starlane with an enemy that outguns them and civilians to rescue, Jacob must push his crew to the very edge of their ability.<br /><br />If he can’t, they will all die out in the black with no way to warn the Alliance of the new threat on their doorstep, and all two million souls on Kremlin Station will pay for his failure.]]></book_description>
+    <book id="60868692">
+      <num_pages>411</num_pages>
+    </book>
+    <author_name>Jeffery H. Haskell</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Thu, 29 Feb 2024 10:08:34 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Sat, 16 Dec 2023 05:45:47 -0800]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.52</average_rating>
+    <book_published>2022</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/60868692-with-grimm-resolve?utm_medium=api&amp;utm_source=rss"><img alt="With Grimm Resolve (Grimm&#39;s War, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650743129l/60868692._SY75_.jpg" /></a><br/>
+                                      author: Jeffery H. Haskell<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.52<br/>
+                                      book published: 2022<br/>
+                                      rating: 4<br/>
+                                      read at: <br/>
+                                      date added: 2024/02/29<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/5365007809?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sat, 16 Dec 2023 05:45:15 -0800]]></pubDate>
+    <title><![CDATA[Against All Odds (Grimm's War, #1)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/5365007809?utm_medium=api&utm_source=rss]]></link>
+    <book_id>59775812</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Idealistic navy Lieutenant Jacob Grimm just wanted to honor his mother's sacrifice in the last great war. When he's forced to return fire and destroy a squadron of ships to save his own, he thinks he's the hero....<br /><br />Until they discover the ships are full of children.<br /><br />Disgraced and denied promotion, Jacob's career is over. That is until the head of ONI needs a disposable officer to command a battered destroyer on the rim.]]></book_description>
+    <book id="59775812">
+      <num_pages>448</num_pages>
+    </book>
+    <author_name>Jeffery H. Haskell</author_name>
+    <isbn></isbn>
+    <user_name>Ricard</user_name>
+    <user_rating>3</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Sat, 16 Dec 2023 05:45:15 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 22 Feb 2023 04:17:08 -0800]]></user_date_created>
+    <user_shelves></user_shelves>
+    <user_review></user_review>
+    <average_rating>4.49</average_rating>
+    <book_published>2022</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/59775812-against-all-odds?utm_medium=api&amp;utm_source=rss"><img alt="Against All Odds (Grimm&#39;s War, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638985231l/59775812._SY75_.jpg" /></a><br/>
+                                      author: Jeffery H. Haskell<br/>
+                                      name: Ricard<br/>
+                                      average rating: 4.49<br/>
+                                      book published: 2022<br/>
+                                      rating: 3<br/>
+                                      read at: <br/>
+                                      date added: 2023/12/16<br/>
+                                      shelves: <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/5560112470?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Thu, 27 Jul 2023 23:01:49 -0700]]></pubDate>
@@ -37,7 +118,7 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Thu, 27 Jul 2023 23:01:49 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Thu, 27 Jul 2023 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Thu, 27 Jul 2023 23:01:49 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 19 May 2023 02:33:04 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -77,19 +158,19 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Fri, 19 May 2023 01:16:42 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Fri, 19 May 2023 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Fri, 19 May 2023 01:16:42 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 22 Feb 2023 04:17:02 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.26</average_rating>
+    <average_rating>4.27</average_rating>
     <book_published>2020</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/53292742-contact-front?utm_medium=api&amp;utm_source=rss"><img alt="Contact Front (Drop Trooper, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590605347l/53292742._SX50_.jpg" /></a><br/>
                                       author: Rick Partlow<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.26<br/>
+                                      average rating: 4.27<br/>
                                       book published: 2020<br/>
                                       rating: 4<br/>
                                       read at: 2023/05/19<br/>
@@ -109,27 +190,27 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The alien forces known as the Lankies are gathering on the solar system’s edge, consolidating their conquest of Mars and setting their sights on Earth. The far-off colony of New Svalbard, cut off from the rest of the galaxy by the Lanky blockade, teeters on the verge of starvation and collapse. The forces of the two Earth alliances have won minor skirmishes but are in danger of losing the war. For battle-weary staff sergeant Andrew Grayson and the ragged forces of the North American Commonwealth, the fight for survival is entering a catastrophic new phase. Forging an uneasy alliance with their Sino-Russian enemies, the NAC launches a hybrid task force on a long shot: a stealth mission to breach the Lanky blockade and reestablish supply lines with Earth. Plunging into combat against a merciless alien species that outguns, outmaneuvers, and outfights them at every turn, Andrew and his fellow troopers could end up cornered on their home turf, with no way out and no hope for reinforcement. And this time, the struggle for humanity’s future can only end in either victory or annihilation.]]></book_description>
+    <book_description><![CDATA[The alien forces known as the Lankies are gathering on the solar system’s edge, consolidating their conquest of Mars and setting their sights on Earth. The far-off colony of New Svalbard, cut off from the rest of the galaxy by the Lanky blockade, teeters on the verge of starvation and collapse. The forces of the two Earth alliances have won minor skirmishes but are in danger of losing the war. For battle-weary staff sergeant Andrew Grayson and the ragged forces of the North American Commonwealth, the fight for survival is entering a catastrophic new phase.<br /><br />Forging an uneasy alliance with their Sino-Russian enemies, the NAC launches a hybrid task force on a long a stealth mission to breach the Lanky blockade and reestablish supply lines with Earth. Plunging into combat against a merciless alien species that outguns, outmaneuvers, and outfights them at every turn, Andrew and his fellow troopers could end up cornered on their home turf, with no way out and no hope for reinforcement. And this time, the struggle for humanity’s future can only end in either victory or annihilation.]]></book_description>
     <book id="24358527">
       <num_pages>352</num_pages>
     </book>
     <author_name>Marko Kloos</author_name>
-    <isbn></isbn>
+    <isbn>1477878319</isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Tue, 21 Feb 2023 14:19:28 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Tue, 21 Feb 2023 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Tue, 21 Feb 2023 14:19:28 -0800]]></user_date_added>
     <user_date_created><![CDATA[Sun, 02 Oct 2022 14:25:05 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.15</average_rating>
+    <average_rating>4.16</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/24358527-angles-of-attack?utm_medium=api&amp;utm_source=rss"><img alt="Angles of Attack (Frontlines, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432362775l/24358527._SY75_.jpg" /></a><br/>
                                       author: Marko Kloos<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.15<br/>
+                                      average rating: 4.16<br/>
                                       book published: 2015<br/>
                                       rating: 3<br/>
                                       read at: 2023/02/21<br/>
@@ -149,15 +230,15 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX50_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438779556l/20329634._SX318_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Vicious interstellar conflict with an indestructible alien species. Bloody civil war over the last habitable zones of the cosmos. Political unrest, militaristic police forces, dire threats to the Solar System… Humanity is on the ropes, and after years of fighting a two-front war with losing odds, so is North American Defense Corps officer Andrew Grayson. He dreams of dropping out of the service one day, alongside his pilot girlfriend, but as warfare consumes entire planets and conditions on Earth deteriorate, he wonders if there will be anywhere left for them to go. After surviving a disastrous space-borne assault, Grayson is reassigned to a ship bound for a distant colony—and packed with malcontents and troublemakers. His most dangerous battle has just begun. In this sequel to the bestselling Terms of Enlistment , a weary soldier must fight to prevent the downfall of his species…or bear witness to humanity’s last, fleeting breaths.]]></book_description>
+    <book_description><![CDATA[Vicious interstellar conflict with an indestructible alien species. Bloody civil war over the last habitable zones of the cosmos. Political unrest, militaristic police forces, dire threats to the Solar System…<br /><br />Humanity is on the ropes, and after years of fighting a two-front war with losing odds, so is North American Defense Corps officer Andrew Grayson. He dreams of dropping out of the service one day, alongside his pilot girlfriend, but as warfare consumes entire planets and conditions on Earth deteriorate, he wonders if there will be anywhere left for them to go.<br /><br />After surviving a disastrous space-borne assault, Grayson is reassigned to a ship bound for a distant colony—and packed with malcontents and troublemakers. His most dangerous battle has just begun.<br /><br />In this sequel to the bestselling Terms of Enlistment, a weary soldier must fight to prevent the downfall of his species…or bear witness to humanity’s last, fleeting breaths.]]></book_description>
     <book id="20329634">
       <num_pages>329</num_pages>
     </book>
     <author_name>Marko Kloos</author_name>
-    <isbn></isbn>
+    <isbn>1477867406</isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Sun, 02 Oct 2022 14:23:54 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Sun, 2 Oct 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Sun, 02 Oct 2022 14:23:54 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 17 Aug 2022 13:27:35 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -194,10 +275,10 @@
       <num_pages>345</num_pages>
     </book>
     <author_name>Marko Kloos</author_name>
-    <isbn></isbn>
+    <isbn>1477859780</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Wed, 17 Aug 2022 13:25:03 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Wed, 17 Aug 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Wed, 17 Aug 2022 13:25:03 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:22:24 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -237,7 +318,7 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at><![CDATA[Thu, 11 Aug 2022 03:59:27 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Thu, 11 Aug 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Thu, 11 Aug 2022 03:59:27 -0700]]></user_date_added>
     <user_date_created><![CDATA[Tue, 05 Jul 2022 23:17:43 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -269,7 +350,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497352317l/35427016._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The Galaxy is a Dumpster Fire. A hot, stinking, dumpster fire. And most days I don’t know if the legionnaires are putting out the flames, or fanning them into an inferno. A hostile force ambushes Victory Company during a reconnaissance-in-force deep inside enemy territory. Stranded behind enemy lines, a sergeant must lead a band of survivors against merciless insurgents on a deadly alien world somewhere along the galaxy’s edge. With no room for error, the Republic’s elite fighting force must struggle to survive under siege while waiting on a rescue that might never come. Join Victory Company as they fight for their lives. When you think you’ve surrounded the Legion... you’ve just made your last mistake. Available in audiobook format performed by R.C. Bray as Galaxy's Edge Part ]]></book_description>
+    <book_description><![CDATA[The Galaxy is a Dumpster Fire.A hot, stinking, dumpster fire. And most days I don’t know if the legionnaires are putting out the flames, or fanning them into an inferno.<br /><br />A hostile force ambushes Victory Company during a reconnaissance-in-force deep inside enemy territory. Stranded behind enemy lines, a sergeant must lead a band of survivors against merciless insurgents on a deadly alien world somewhere along the galaxy’s edge. With no room for error, the Republic’s elite fighting force must struggle to survive under siege while waiting on a rescue that might never come.<br /><br /><b>Join Victory Company as they fight for their lives. When you think you’ve surrounded the Legion... you’ve just made your last mistake.</b><br /><br />Available in audiobook format performed by R.C. Bray as Galaxy's Edge Part ]]></book_description>
     <book id="35427016">
       <num_pages>308</num_pages>
     </book>
@@ -277,7 +358,7 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Tue, 05 Jul 2022 23:17:18 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Tue, 5 Jul 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Tue, 05 Jul 2022 23:17:24 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 31 Jul 2020 03:22:57 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -317,7 +398,7 @@
     <isbn>0743453964</isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at><![CDATA[Thu, 09 Jun 2022 01:16:42 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Thu, 9 Jun 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Thu, 09 Jun 2022 01:16:42 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 02 Apr 2022 09:11:39 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -357,7 +438,7 @@
     <isbn>0593135202</isbn>
     <user_name>Ricard</user_name>
     <user_rating>1</user_rating>
-    <user_read_at><![CDATA[Sat, 02 Apr 2022 09:14:53 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Sat, 2 Apr 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Sat, 02 Apr 2022 09:14:53 -0700]]></user_date_added>
     <user_date_created><![CDATA[Thu, 02 Dec 2021 13:56:34 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -399,7 +480,7 @@
     <isbn>0671047345</isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at><![CDATA[Sun, 13 Mar 2022 00:00:00 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Sun, 13 Mar 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Sun, 13 Mar 2022 23:53:58 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 22 Jan 2022 05:41:39 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -431,7 +512,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314830587l/184661.jpg]]></book_large_image_url>
-    <book_description><![CDATA[When diplomacy has failed and military intervention is deemed in appropriate, our leaders sometimes take THE THIRD OPTION. CIA counterterrorism operative Mitch Rapp falls prey to government forces with an agenda of their own after Dr. Irene Kennedy is named the successor to dying CIA Director Thomas Stansfield--a choice that enrages many inside the world's most powerful intelligence agency. Her detractors will resort to extreme measures to prevent her from taking the reins--which makes Rapp an expendable asset. But Mitch Rapp is no one's pawn, and he will stop at nothing to find out who has set him up.]]></book_description>
+    <book_description><![CDATA[Mitch Rapp, the CIA's top counterterrorism operative, is sent on his final mission, to eliminate a European industrialist who has been selling sensitive equipment to one of terrorism's most notorious sponsors. But he doesn't know that the ultimate target of this mission is himself.<br /><br />Set up by forces within the US who do not want the next Director-elect of the CIA to take over, and therefore need a disaster for the present regime, Mitch refuses to die ... the conspirators have made an awful miscalculation. They have enraged one of the most lethal and efficient killers the CIA has ever produced. Now they will pay.]]></book_description>
     <book id="184661">
       <num_pages>402</num_pages>
     </book>
@@ -439,7 +520,7 @@
     <isbn>0743499697</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Sat, 22 Jan 2022 05:40:41 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Sat, 22 Jan 2022 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Sat, 22 Jan 2022 05:40:41 -0800]]></user_date_added>
     <user_date_created><![CDATA[Thu, 02 Dec 2021 13:54:17 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -479,7 +560,7 @@
     <isbn>1416516352</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Thu, 02 Dec 2021 13:53:22 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Thu, 2 Dec 2021 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Thu, 02 Dec 2021 13:53:22 -0800]]></user_date_added>
     <user_date_created><![CDATA[Thu, 20 May 2021 11:03:05 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -519,7 +600,7 @@
     <isbn>0765388898</isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at><![CDATA[Thu, 09 Sep 2021 10:46:34 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Thu, 9 Sep 2021 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Thu, 09 Sep 2021 10:46:34 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 09 Jan 2021 00:35:55 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -551,7 +632,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509630796l/35108805._SY75_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509630796l/35108805._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509630796l/35108805.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Former FBI Director James Comey shares his never-before-told experiences from some of the highest-stakes situations of his career in the past two decades of American government, exploring what good, ethical leadership looks like, and how it drives sound decisions. His journey provides an unprecedented entry into the corridors of power, and a remarkable lesson in what makes an effective leader.<br /><br />Mr. Comey served as Director of the FBI from 2013 to 2017, appointed to the post by President Barack Obama. He previously served as U.S. attorney for the Southern District of New York, and the U.S. deputy attorney general in the administration of President George W. Bush. From prosecuting the Mafia and Martha Stewart to helping change the Bush administration's policies on torture and electronic surveillance, overseeing the Hillary Clinton e-mail investigation as well as ties between the Trump campaign and Russia, Comey has been involved in some of the most consequential cases and policies of recent history.]]></book_description>
+    <book_description><![CDATA[In his book, former FBI director James Comey shares his never-before-told experiences from some of the highest-stakes situations of his career in the past two decades of American government, exploring what good, ethical leadership looks like, and how it drives sound decisions. His journey provides an unprecedented entry into the corridors of power, and a remarkable lesson in what makes an effective leader.<br /><br />Mr. Comey served as director of the FBI from 2013 to 2017, appointed to the post by President Barack Obama. He previously served as U.S. attorney for the Southern District of New York, and the U.S. deputy attorney general in the administration of President George W. Bush. From prosecuting the Mafia and Martha Stewart to helping change the Bush administration's policies on torture and electronic surveillance, overseeing the Hillary Clinton e-mail investigation as well as ties between the Trump campaign and Russia, Comey has been involved in some of the most consequential cases and policies of recent history.]]></book_description>
     <book id="35108805">
       <num_pages>290</num_pages>
     </book>
@@ -559,7 +640,7 @@
     <isbn>1250192455</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Sat, 03 Jul 2021 13:01:16 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Sat, 3 Jul 2021 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Sat, 03 Jul 2021 13:01:16 -0700]]></user_date_added>
     <user_date_created><![CDATA[Sat, 03 Oct 2020 01:00:48 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -599,7 +680,7 @@
     <isbn>1416595201</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Thu, 20 May 2021 11:01:28 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Thu, 20 May 2021 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Thu, 20 May 2021 11:01:28 -0700]]></user_date_added>
     <user_date_created><![CDATA[Tue, 20 Oct 2020 14:02:46 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -639,7 +720,7 @@
     <isbn>0765309416</isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Fri, 26 Mar 2021 10:40:14 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Fri, 26 Mar 2021 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Fri, 26 Mar 2021 10:40:14 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:43:24 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -679,7 +760,7 @@
     <isbn>141659518X</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Tue, 12 Jan 2021 08:29:21 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Tue, 12 Jan 2021 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Tue, 12 Jan 2021 08:29:21 -0800]]></user_date_added>
     <user_date_created><![CDATA[Tue, 06 Oct 2020 13:49:53 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -719,19 +800,19 @@
     <isbn>0451499816</isbn>
     <user_name>Ricard</user_name>
     <user_rating>1</user_rating>
-    <user_read_at><![CDATA[Tue, 06 Oct 2020 13:53:00 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Tue, 6 Oct 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Tue, 06 Oct 2020 13:53:00 -0700]]></user_date_added>
     <user_date_created><![CDATA[Mon, 23 Mar 2020 09:06:52 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.54</average_rating>
+    <average_rating>3.53</average_rating>
     <book_published>2020</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/45895112-the-last-human?utm_medium=api&amp;utm_source=rss"><img alt="The Last Human" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580794903l/45895112._SY75_.jpg" /></a><br/>
                                       author: Zack  Jordan<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.54<br/>
+                                      average rating: 3.53<br/>
                                       book published: 2020<br/>
                                       rating: 1<br/>
                                       read at: 2020/10/06<br/>
@@ -759,7 +840,7 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Mon, 10 Aug 2020 03:35:07 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Mon, 10 Aug 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 10 Aug 2020 03:35:07 -0700]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:46:01 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -839,19 +920,19 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Fri, 22 May 2020 02:20:35 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Fri, 22 May 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Fri, 22 May 2020 02:20:35 -0700]]></user_date_added>
     <user_date_created><![CDATA[Tue, 25 Feb 2020 11:36:06 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.25</average_rating>
+    <average_rating>4.24</average_rating>
     <book_published>2018</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/36223860-artificial-condition?utm_medium=api&amp;utm_source=rss"><img alt="Artificial Condition (The Murderbot Diaries, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg" /></a><br/>
                                       author: Martha Wells<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.25<br/>
+                                      average rating: 4.24<br/>
                                       book published: 2018<br/>
                                       rating: 3<br/>
                                       read at: 2020/05/22<br/>
@@ -881,7 +962,7 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Fri, 22 May 2020 02:18:29 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Fri, 22 May 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Fri, 22 May 2020 02:18:29 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:53:41 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -921,7 +1002,7 @@
     <isbn>0425282791</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Sun, 29 Mar 2020 03:50:08 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Sun, 29 Mar 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Sun, 29 Mar 2020 03:50:08 -0700]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:55:12 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -961,19 +1042,19 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Tue, 25 Feb 2020 11:34:08 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Tue, 25 Feb 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Tue, 25 Feb 2020 11:34:08 -0800]]></user_date_added>
     <user_date_created><![CDATA[Wed, 12 Feb 2020 00:08:15 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.14</average_rating>
+    <average_rating>4.13</average_rating>
     <book_published>2017</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/32758901-all-systems-red?utm_medium=api&amp;utm_source=rss"><img alt="All Systems Red (The Murderbot Diaries, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg" /></a><br/>
                                       author: Martha Wells<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.14<br/>
+                                      average rating: 4.13<br/>
                                       book published: 2017<br/>
                                       rating: 4<br/>
                                       read at: 2020/02/25<br/>
@@ -1001,7 +1082,7 @@
     <isbn>0425143325</isbn>
     <user_name>Ricard</user_name>
     <user_rating>1</user_rating>
-    <user_read_at><![CDATA[Wed, 12 Feb 2020 00:05:36 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Wed, 12 Feb 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Wed, 12 Feb 2020 00:05:36 -0800]]></user_date_added>
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:36:23 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1041,7 +1122,7 @@
     <isbn>0765316978</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Tue, 04 Feb 2020 11:40:53 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Tue, 4 Feb 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Tue, 04 Feb 2020 11:40:53 -0800]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:44:12 -0700]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1081,7 +1162,7 @@
     <isbn>1781162689</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Wed, 27 Jan 2016 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:40:44 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:40:26 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1096,7 +1177,7 @@
                                       average rating: 3.80<br/>
                                       book published: 2013<br/>
                                       rating: 5<br/>
-                                      read at: <br/>
+                                      read at: 2016/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1121,22 +1202,22 @@
     <isbn>1781162727</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Fri, 27 Jan 2017 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:40:03 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:39:46 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.81</average_rating>
+    <average_rating>3.80</average_rating>
     <book_published>2014</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/21432866-alien?utm_medium=api&amp;utm_source=rss"><img alt="Alien: River of Pain (Canonical Alien trilogy, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349873l/21432866._SY75_.jpg" /></a><br/>
                                       author: Christopher Golden<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.81<br/>
+                                      average rating: 3.80<br/>
                                       book published: 2014<br/>
                                       rating: 4<br/>
-                                      read at: <br/>
+                                      read at: 2017/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1161,7 +1242,7 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>2</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Fri, 27 Jan 2017 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:39:28 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:39:16 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1176,7 +1257,7 @@
                                       average rating: 3.44<br/>
                                       book published: 2017<br/>
                                       rating: 2<br/>
-                                      read at: <br/>
+                                      read at: 2017/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1201,22 +1282,22 @@
     <isbn>0743276833</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Mon, 27 Jan 2014 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:28:58 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:28:36 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.15</average_rating>
+    <average_rating>4.14</average_rating>
     <book_published>2006</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/311504.Riding_Rockets?utm_medium=api&amp;utm_source=rss"><img alt="Riding Rockets" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442025345l/311504._SY75_.jpg" /></a><br/>
                                       author: Mike Mullane<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.15<br/>
+                                      average rating: 4.14<br/>
                                       book published: 2006<br/>
                                       rating: 5<br/>
-                                      read at: <br/>
+                                      read at: 2014/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1241,22 +1322,22 @@
     <isbn>0316253014</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Mon, 27 Jan 2014 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:22:51 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:05:51 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.13</average_rating>
+    <average_rating>4.14</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth?utm_medium=api&amp;utm_source=rss"><img alt="An Astronaut&#39;s Guide to Life on Earth" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380495144l/18170143._SY75_.jpg" /></a><br/>
                                       author: Chris Hadfield<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.13<br/>
+                                      average rating: 4.14<br/>
                                       book published: 2013<br/>
                                       rating: 5<br/>
-                                      read at: <br/>
+                                      read at: 2014/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1273,7 +1354,7 @@
     <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405526623l/22733454._SX50_.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405526623l/22733454._SX98_.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405526623l/22733454.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Leaders can transform the generation gap in the workforce into an engine for generating maximum performance.<br /><br />Easing the tensions between generations in the workforce demands a new type of leadership, one based on adaptability, transparency, and strength. With his actionable program, Brad Szollose shares the wisdom and the tools necessary for anyone to acquire the flexibility and insight of a liquid leader.<br /><br />This wide-ranging discussion by a pioneering Internet entrepreneur provides an entirely new perspective on the major factors affecting businesses today. The author reveals seven immutable laws that can enable any leader to maximize the effectiveness of any organization. From placing people first to leaving a lasting legacy, the liquid leader knows just the right techniques to motivate individuals to perform at their best.<br /><br />Liquid Leadership will help readers avoid getting caught up in a workforce culture clash and learn how a dynamic approach to everything from communication to social commitment can bridge the culture gap.]]></book_description>
+    <book_description><![CDATA[Leaders can transform the generation gap in the workforce into an engine for generating maximum performance.Easing the tensions between generations in the workforce demands a new type of leadership, one based on adaptability, transparency, and strength. With his actionable program, Brad Szollose shares the wisdom and the tools necessary for anyone to acquire the flexibility and insight of a liquid leader.This wide-ranging discussion by a pioneering Internet entrepreneur provides an entirely new perspective on the major factors affecting businesses today. The author reveals seven immutable laws that can enable any leader to maximize the effectiveness of any organization. From placing people first to leaving a lasting legacy, the liquid leader knows just the right techniques to motivate individuals to perform at their best.Liquid Leadership will help readers avoid getting caught up in a workforce culture clash and learn how a dynamic approach to everything from communication to social commitment can bridge the culture gap.]]></book_description>
     <book id="22733454">
       <num_pages>264</num_pages>
     </book>
@@ -1281,22 +1362,22 @@
     <isbn></isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Sun, 27 Jan 2019 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:18:03 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:11:01 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.38</average_rating>
+    <average_rating>4.40</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/22733454-liquid-leadership?utm_medium=api&amp;utm_source=rss"><img alt="Liquid Leadership: From Woodstock to Wikipedia -- Multigenerational Management Ideas That Are Changing the Way We Run Things" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405526623l/22733454._SX50_.jpg" /></a><br/>
                                       author: Brad Szollose<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.38<br/>
+                                      average rating: 4.40<br/>
                                       book published: 2010<br/>
                                       rating: 3<br/>
-                                      read at: <br/>
+                                      read at: 2019/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1321,7 +1402,7 @@
     <isbn>0316206717</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Sun, 27 Jan 2013 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:10:20 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:10:08 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1336,7 +1417,7 @@
                                       average rating: 4.24<br/>
                                       book published: 2012<br/>
                                       rating: 4<br/>
-                                      read at: <br/>
+                                      read at: 2013/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1361,22 +1442,22 @@
     <isbn>0316101877</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Sun, 27 Jan 2013 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:09:57 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:09:41 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.04</average_rating>
+    <average_rating>4.03</average_rating>
     <book_published>2011</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/9798177-the-worst-years-of-my-life?utm_medium=api&amp;utm_source=rss"><img alt="The Worst Years of My Life (Middle School #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184921l/9798177._SX50_.jpg" /></a><br/>
                                       author: James Patterson<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.04<br/>
+                                      average rating: 4.03<br/>
                                       book published: 2011<br/>
                                       rating: 4<br/>
-                                      read at: <br/>
+                                      read at: 2013/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1401,7 +1482,7 @@
     <isbn>0316206938</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at></user_read_at>
+    <user_read_at><![CDATA[Sun, 27 Jan 2013 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 27 Jan 2020 03:09:11 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 27 Jan 2020 03:08:47 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1416,7 +1497,7 @@
                                       average rating: 4.13<br/>
                                       book published: 2012<br/>
                                       rating: 4<br/>
-                                      read at: <br/>
+                                      read at: 2013/01/27<br/>
                                       date added: 2020/01/27<br/>
                                       shelves: <br/>
                                       review: <br/><br/>
@@ -1441,7 +1522,7 @@
     <isbn>0553448129</isbn>
     <user_name>Ricard</user_name>
     <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Fri, 03 Jan 2020 05:33:15 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Fri, 3 Jan 2020 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Fri, 03 Jan 2020 05:33:15 -0800]]></user_date_added>
     <user_date_created><![CDATA[Mon, 02 Dec 2019 13:43:27 -0800]]></user_date_created>
     <user_shelves></user_shelves>
@@ -1728,14 +1809,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:54:36 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.33</average_rating>
+    <average_rating>4.34</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/17166242-dead-eye?utm_medium=api&amp;utm_source=rss"><img alt="Dead Eye (Gray Man, #4)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364849324l/17166242._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.33<br/>
+                                      average rating: 4.34<br/>
                                       book published: 2013<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1850,14 +1931,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:53:03 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.14</average_rating>
+    <average_rating>4.15</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/8423597-on-target?utm_medium=api&amp;utm_source=rss"><img alt="On Target (Gray Man, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395181938l/8423597._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.14<br/>
+                                      average rating: 4.15<br/>
                                       book published: 2010<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -1930,14 +2011,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:52:05 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.10</average_rating>
+    <average_rating>4.11</average_rating>
     <book_published>2009</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/6547865-the-gray-man?utm_medium=api&amp;utm_source=rss"><img alt="The Gray Man (Gray Man, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335649192l/6547865._SY75_.jpg" /></a><br/>
                                       author: Mark Greaney<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.10<br/>
+                                      average rating: 4.11<br/>
                                       book published: 2009<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -2050,14 +2131,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:17:01 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>3.96</average_rating>
+    <average_rating>3.97</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/9542311-packing-for-mars?utm_medium=api&amp;utm_source=rss"><img alt="Packing for Mars: The Curious Science of Life in the Void" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311._SX50_.jpg" /></a><br/>
                                       author: Mary Roach<br/>
                                       name: Ricard<br/>
-                                      average rating: 3.96<br/>
+                                      average rating: 3.97<br/>
                                       book published: 2010<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -2090,14 +2171,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 15:16:45 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.18</average_rating>
+    <average_rating>4.17</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/25541028-elon-musk?utm_medium=api&amp;utm_source=rss"><img alt="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg" /></a><br/>
                                       author: Ashlee Vance<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.18<br/>
+                                      average rating: 4.17<br/>
                                       book published: 2015<br/>
                                       rating: 4<br/>
                                       read at: <br/>
@@ -2110,7 +2191,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/3103420185?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Fri, 27 Dec 2019 14:50:51 -0800]]></pubDate>
-    <title><![CDATA[The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)]]></title>
+    <title><![CDATA[The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/3103420185?utm_medium=api&utm_source=rss]]></link>
     <book_id>386162</book_id>
     <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg]]></book_image_url>
@@ -2134,7 +2215,7 @@
     <book_published>1979</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy?utm_medium=api&amp;utm_source=rss"><img alt="The Hitchhiker&#39;s Guide to the Galaxy (The Hitchhiker&#39;s Guide to the Galaxy, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy?utm_medium=api&amp;utm_source=rss"><img alt="The Hitchhiker’s Guide to the Galaxy (The Hitchhiker&#39;s Guide to the Galaxy, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg" /></a><br/>
                                       author: Douglas Adams<br/>
                                       name: Ricard<br/>
                                       average rating: 4.28<br/>
@@ -2210,14 +2291,14 @@
     <user_date_created><![CDATA[Fri, 27 Dec 2019 14:50:20 -0800]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.40</average_rating>
+    <average_rating>4.41</average_rating>
     <book_published>2011</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/18007564-the-martian?utm_medium=api&amp;utm_source=rss"><img alt="The Martian" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg" /></a><br/>
                                       author: Andy Weir<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.40<br/>
+                                      average rating: 4.41<br/>
                                       book published: 2011<br/>
                                       rating: 5<br/>
                                       read at: <br/>
@@ -2245,19 +2326,19 @@
     <isbn>0765354063</isbn>
     <user_name>Ricard</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Mon, 02 Dec 2019 13:42:06 -0800]]></user_read_at>
+    <user_read_at><![CDATA[Mon, 2 Dec 2019 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Mon, 02 Dec 2019 13:42:06 -0800]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 10:44:07 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.09</average_rating>
+    <average_rating>4.10</average_rating>
     <book_published>2006</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/239399.The_Ghost_Brigades?utm_medium=api&amp;utm_source=rss"><img alt="The Ghost Brigades (Old Man&#39;s War, #2)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403295928l/239399._SY75_.jpg" /></a><br/>
                                       author: John Scalzi<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.09<br/>
+                                      average rating: 4.10<br/>
                                       book published: 2006<br/>
                                       rating: 4<br/>
                                       read at: 2019/12/02<br/>
@@ -2365,19 +2446,19 @@
     <isbn>1250237238</isbn>
     <user_name>Ricard</user_name>
     <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Wed, 16 Oct 2019 12:52:23 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Wed, 16 Oct 2019 00:00:00 +0000]]></user_read_at>
     <user_date_added><![CDATA[Wed, 16 Oct 2019 12:52:23 -0700]]></user_date_added>
     <user_date_created><![CDATA[Wed, 16 Oct 2019 12:52:08 -0700]]></user_date_created>
     <user_shelves></user_shelves>
     <user_review></user_review>
-    <average_rating>4.30</average_rating>
+    <average_rating>4.29</average_rating>
     <book_published>2019</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/46223297-permanent-record?utm_medium=api&amp;utm_source=rss"><img alt="Permanent Record" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg" /></a><br/>
                                       author: Edward Snowden<br/>
                                       name: Ricard<br/>
-                                      average rating: 4.30<br/>
+                                      average rating: 4.29<br/>
                                       book published: 2019<br/>
                                       rating: 5<br/>
                                       read at: 2019/10/16<br/>
